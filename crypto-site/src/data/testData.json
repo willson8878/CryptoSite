@@ -1,0 +1,3074 @@
+[
+    {
+      "Pair": "ETH/USDT",
+      "Price(USDT)": 2744.5,
+      "Equivalent price(USD)": 2744.5,
+      "24H Change": "+1.41%",
+      "24H Volume(USDT)": "1.48B",
+      "AI annualized return": "+286.14%"
+    },
+    {
+      "Pair": "BTC/USDT",
+      "Price(USDT)": 53578.09,
+      "Equivalent price(USD)": 53578.09,
+      "24H Change": "-1.42%",
+      "24H Volume(USDT)": "1.2B",
+      "AI annualized return": "+138.13%"
+    },
+    {
+      "Pair": "SRM3L/USDT",
+      "Price(USDT)": 182.529,
+      "Equivalent price(USD)": 182.52,
+      "24H Change": "-1.43%",
+      "24H Volume(USDT)": "892.36M",
+      "AI annualized return": "+3515.80%"
+    },
+    {
+      "Pair": "DOGE/USDT",
+      "Price(USDT)": 0.308993,
+      "Equivalent price(USD)": 0.3,
+      "24H Change": "-2.54%",
+      "24H Volume(USDT)": "631.21M",
+      "AI annualized return": "+614.63%"
+    },
+    {
+      "Pair": "HT/USDT",
+      "Price(USDT)": 23.2727,
+      "Equivalent price(USD)": 23.27,
+      "24H Change": "+26.59%",
+      "24H Volume(USDT)": "609.26M",
+      "AI annualized return": "+367.11%"
+    },
+    {
+      "Pair": "XRP/USDT",
+      "Price(USDT)": 1.39182,
+      "Equivalent price(USD)": 1.39,
+      "24H Change": "+1.44%",
+      "24H Volume(USDT)": "489.5M",
+      "AI annualized return": "+493.68%"
+    },
+    {
+      "Pair": "SOL3L/USDT",
+      "Price(USDT)": 778.261,
+      "Equivalent price(USD)": 778.26,
+      "24H Change": "-11.27%",
+      "24H Volume(USDT)": "485.79M",
+      "AI annualized return": "+2002.73%"
+    },
+    {
+      "Pair": "FIL/USDT",
+      "Price(USDT)": 157.8005,
+      "Equivalent price(USD)": 157.8,
+      "24H Change": "+5.78%",
+      "24H Volume(USDT)": "302.88M",
+      "AI annualized return": "+211.73%"
+    },
+    {
+      "Pair": "DOT/USDT",
+      "Price(USDT)": 36.29,
+      "Equivalent price(USD)": 36.29,
+      "24H Change": "+8.75%",
+      "24H Volume(USDT)": "279.66M",
+      "AI annualized return": "+241.59%"
+    },
+    {
+      "Pair": "BNB3L/USDT",
+      "Price(USDT)": 309.474,
+      "Equivalent price(USD)": 309.47,
+      "24H Change": "+18.13%",
+      "24H Volume(USDT)": "258.39M",
+      "AI annualized return": "+782.86%"
+    },
+    {
+      "Pair": "TRX/USDT",
+      "Price(USDT)": 0.120365,
+      "Equivalent price(USD)": 0.12,
+      "24H Change": "-0.51%",
+      "24H Volume(USDT)": "189.56M",
+      "AI annualized return": "+448.98%"
+    },
+    {
+      "Pair": "ADA/USDT",
+      "Price(USDT)": 1.312447,
+      "Equivalent price(USD)": 1.31,
+      "24H Change": "+0.27%",
+      "24H Volume(USDT)": "188.72M",
+      "AI annualized return": "+283.61%"
+    },
+    {
+      "Pair": "BUSD/USDT",
+      "Price(USDT)": 0.9993,
+      "Equivalent price(USD)": 0.99,
+      "24H Change": "-0.04%",
+      "24H Volume(USDT)": "178.15M",
+      "AI annualized return": "--"
+    },
+    {
+      "Pair": "BTT/USDT",
+      "Price(USDT)": 0.00686318,
+      "Equivalent price(USD)": 0.0068,
+      "24H Change": "-2.10%",
+      "24H Volume(USDT)": "175M",
+      "AI annualized return": "+443.11%"
+    },
+    {
+      "Pair": "MDX/USDT",
+      "Price(USDT)": 3.4265,
+      "Equivalent price(USD)": 3.42,
+      "24H Change": "+23.34%",
+      "24H Volume(USDT)": "159.9M",
+      "AI annualized return": "+180.73%"
+    },
+    {
+      "Pair": "UNI/USDT",
+      "Price(USDT)": 40.2528,
+      "Equivalent price(USD)": 40.25,
+      "24H Change": "-5.95%",
+      "24H Volume(USDT)": "159.34M",
+      "AI annualized return": "+457.08%"
+    },
+    {
+      "Pair": "LTC/USDT",
+      "Price(USDT)": 257.36,
+      "Equivalent price(USD)": 257.36,
+      "24H Change": "+1.50%",
+      "24H Volume(USDT)": "148.15M",
+      "AI annualized return": "+198.48%"
+    },
+    {
+      "Pair": "VET3L/USDT",
+      "Price(USDT)": 31.897,
+      "Equivalent price(USD)": 31.89,
+      "24H Change": "-13.14%",
+      "24H Volume(USDT)": "139.82M",
+      "AI annualized return": "+1250.31%"
+    },
+    {
+      "Pair": "MATIC/USDT",
+      "Price(USDT)": 0.9209,
+      "Equivalent price(USD)": 0.92,
+      "24H Change": "+16.57%",
+      "24H Volume(USDT)": "136.8M",
+      "AI annualized return": "+1401.78%"
+    },
+    {
+      "Pair": "EOS/USDT",
+      "Price(USDT)": 6.083,
+      "Equivalent price(USD)": 6.08,
+      "24H Change": "+3.67%",
+      "24H Volume(USDT)": "123.87M",
+      "AI annualized return": "+251.47%"
+    },
+    {
+      "Pair": "CHZ/USDT",
+      "Price(USDT)": 0.550636,
+      "Equivalent price(USD)": 0.55,
+      "24H Change": "+2.18%",
+      "24H Volume(USDT)": "117.47M",
+      "AI annualized return": "+352.25%"
+    },
+    {
+      "Pair": "BCH/USDT",
+      "Price(USDT)": 879.86,
+      "Equivalent price(USD)": 879.86,
+      "24H Change": "-0.36%",
+      "24H Volume(USDT)": "113.88M",
+      "AI annualized return": "+210.87%"
+    },
+    {
+      "Pair": "BSV/USDT",
+      "Price(USDT)": 282.2155,
+      "Equivalent price(USD)": 282.21,
+      "24H Change": "-0.17%",
+      "24H Volume(USDT)": "102.71M",
+      "AI annualized return": "+264.52%"
+    },
+    {
+      "Pair": "ALICE/USDT",
+      "Price(USDT)": 12.9534,
+      "Equivalent price(USD)": 12.95,
+      "24H Change": "-5.58%",
+      "24H Volume(USDT)": "92.29M",
+      "AI annualized return": "+2489.93%"
+    },
+    {
+      "Pair": "CAKE/USDT",
+      "Price(USDT)": 42.557,
+      "Equivalent price(USD)": 42.55,
+      "24H Change": "+9.84%",
+      "24H Volume(USDT)": "88.56M",
+      "AI annualized return": "+562.58%"
+    },
+    {
+      "Pair": "SUN/USDT",
+      "Price(USDT)": 32.7194,
+      "Equivalent price(USD)": 32.71,
+      "24H Change": "-1.97%",
+      "24H Volume(USDT)": "85.32M",
+      "AI annualized return": "+288.53%"
+    },
+    {
+      "Pair": "SUSHI/USDT",
+      "Price(USDT)": 13.9896,
+      "Equivalent price(USD)": 13.98,
+      "24H Change": "-2.34%",
+      "24H Volume(USDT)": "82.99M",
+      "AI annualized return": "+334.85%"
+    },
+    {
+      "Pair": "LINK/USDT",
+      "Price(USDT)": 36.3844,
+      "Equivalent price(USD)": 36.38,
+      "24H Change": "+2.32%",
+      "24H Volume(USDT)": "80.07M",
+      "AI annualized return": "+258.16%"
+    },
+    {
+      "Pair": "JST/USDT",
+      "Price(USDT)": 0.120291,
+      "Equivalent price(USD)": 0.12,
+      "24H Change": "-0.76%",
+      "24H Volume(USDT)": "77.06M",
+      "AI annualized return": "+432.90%"
+    },
+    {
+      "Pair": "WIN/USDT",
+      "Price(USDT)": 0.00129424,
+      "Equivalent price(USD)": 0.0012,
+      "24H Change": "-2.52%",
+      "24H Volume(USDT)": "74.35M",
+      "AI annualized return": "+1685.51%"
+    },
+    {
+      "Pair": "PUNDIX/USDT",
+      "Price(USDT)": 3.171,
+      "Equivalent price(USD)": 3.17,
+      "24H Change": "-2.16%",
+      "24H Volume(USDT)": "71.28M",
+      "AI annualized return": "+740.65%"
+    },
+    {
+      "Pair": "TFUEL/USDT",
+      "Price(USDT)": 0.328889,
+      "Equivalent price(USD)": 0.32,
+      "24H Change": "+0.74%",
+      "24H Volume(USDT)": "67.5M",
+      "AI annualized return": "+651.05%"
+    },
+    {
+      "Pair": "TRX1S/USDT",
+      "Price(USDT)": 2.195,
+      "Equivalent price(USD)": 2.19,
+      "24H Change": "+0.55%",
+      "24H Volume(USDT)": "62.16M",
+      "AI annualized return": "+351.20%"
+    },
+    {
+      "Pair": "TOMO3S/USDT",
+      "Price(USDT)": 7.184,
+      "Equivalent price(USD)": 7.18,
+      "24H Change": "-31.92%",
+      "24H Volume(USDT)": "59.95M",
+      "AI annualized return": "+1249.16%"
+    },
+    {
+      "Pair": "ETC/USDT",
+      "Price(USDT)": 34.2085,
+      "Equivalent price(USD)": 34.2,
+      "24H Change": "-0.59%",
+      "24H Volume(USDT)": "57.15M",
+      "AI annualized return": "+218.17%"
+    },
+    {
+      "Pair": "DODO/USDT",
+      "Price(USDT)": 3.785,
+      "Equivalent price(USD)": 3.78,
+      "24H Change": "+8.11%",
+      "24H Volume(USDT)": "52.87M",
+      "AI annualized return": "+575.93%"
+    },
+    {
+      "Pair": "AAVE/USDT",
+      "Price(USDT)": 438.518,
+      "Equivalent price(USD)": 438.51,
+      "24H Change": "-2.41%",
+      "24H Volume(USDT)": "52.44M",
+      "AI annualized return": "+368.92%"
+    },
+    {
+      "Pair": "VET/USDT",
+      "Price(USDT)": 0.189141,
+      "Equivalent price(USD)": 0.18,
+      "24H Change": "-3.29%",
+      "24H Volume(USDT)": "51.16M",
+      "AI annualized return": "+932.72%"
+    },
+    {
+      "Pair": "PERP/USDT",
+      "Price(USDT)": 7.935,
+      "Equivalent price(USD)": 7.93,
+      "24H Change": "+9.01%",
+      "24H Volume(USDT)": "49.52M",
+      "AI annualized return": "+311.29%"
+    },
+    {
+      "Pair": "ZEC/USDT",
+      "Price(USDT)": 230.83,
+      "Equivalent price(USD)": 230.83,
+      "24H Change": "-2.25%",
+      "24H Volume(USDT)": "43.87M",
+      "AI annualized return": "+224.34%"
+    },
+    {
+      "Pair": "1INCH3L/USDT",
+      "Price(USDT)": 15.118,
+      "Equivalent price(USD)": 15.11,
+      "24H Change": "-4.99%",
+      "24H Volume(USDT)": "40.14M",
+      "AI annualized return": "+5943.07%"
+    },
+    {
+      "Pair": "DEGO/USDT",
+      "Price(USDT)": 15.653,
+      "Equivalent price(USD)": 15.65,
+      "24H Change": "-10.69%",
+      "24H Volume(USDT)": "39.5M",
+      "AI annualized return": "+1743.85%"
+    },
+    {
+      "Pair": "ATOM/USDT",
+      "Price(USDT)": 22.2945,
+      "Equivalent price(USD)": 22.29,
+      "24H Change": "-0.40%",
+      "24H Volume(USDT)": "38.56M",
+      "AI annualized return": "+382.46%"
+    },
+    {
+      "Pair": "SRM/USDT",
+      "Price(USDT)": 9.2279,
+      "Equivalent price(USD)": 9.22,
+      "24H Change": "+0.98%",
+      "24H Volume(USDT)": "36.2M",
+      "AI annualized return": "+1580.62%"
+    },
+    {
+      "Pair": "DENT/USDT",
+      "Price(USDT)": 0.0110144,
+      "Equivalent price(USD)": 0.011,
+      "24H Change": "+0.99%",
+      "24H Volume(USDT)": "34.64M",
+      "AI annualized return": "+1171.66%"
+    },
+    {
+      "Pair": "MFT/USDT",
+      "Price(USDT)": 0.016094,
+      "Equivalent price(USD)": 0.016,
+      "24H Change": "-1.49%",
+      "24H Volume(USDT)": "34.42M",
+      "AI annualized return": "+550.01%"
+    },
+    {
+      "Pair": "BNB/USDT",
+      "Price(USDT)": 600.9708,
+      "Equivalent price(USD)": 600.97,
+      "24H Change": "+6.89%",
+      "24H Volume(USDT)": "32.18M",
+      "AI annualized return": "+309.63%"
+    },
+    {
+      "Pair": "ONT/USDT",
+      "Price(USDT)": 1.694,
+      "Equivalent price(USD)": 1.69,
+      "24H Change": "+2.25%",
+      "24H Volume(USDT)": "32.03M",
+      "AI annualized return": "+340.40%"
+    },
+    {
+      "Pair": "KNC3L/USDT",
+      "Price(USDT)": 6.442,
+      "Equivalent price(USD)": 6.44,
+      "24H Change": "-2.53%",
+      "24H Volume(USDT)": "31.78M",
+      "AI annualized return": "+1809.63%"
+    },
+    {
+      "Pair": "CRV/USDT",
+      "Price(USDT)": 3.031,
+      "Equivalent price(USD)": 3.03,
+      "24H Change": "+2.23%",
+      "24H Volume(USDT)": "31.65M",
+      "AI annualized return": "+386.62%"
+    },
+    {
+      "Pair": "ZKS/USDT",
+      "Price(USDT)": 2.5021,
+      "Equivalent price(USD)": 2.5,
+      "24H Change": "+1.69%",
+      "24H Volume(USDT)": "31.43M",
+      "AI annualized return": "+278.99%"
+    },
+    {
+      "Pair": "IOTX/USDT",
+      "Price(USDT)": 0.076674,
+      "Equivalent price(USD)": 0.076,
+      "24H Change": "+54.40%",
+      "24H Volume(USDT)": "30.26M",
+      "AI annualized return": "+1093.66%"
+    },
+    {
+      "Pair": "DASH/USDT",
+      "Price(USDT)": 293.32,
+      "Equivalent price(USD)": 293.32,
+      "24H Change": "+4.36%",
+      "24H Volume(USDT)": "29.54M",
+      "AI annualized return": "+253.59%"
+    },
+    {
+      "Pair": "THETA/USDT",
+      "Price(USDT)": 10.9154,
+      "Equivalent price(USD)": 10.91,
+      "24H Change": "-1.67%",
+      "24H Volume(USDT)": "29.18M",
+      "AI annualized return": "+416.37%"
+    },
+    {
+      "Pair": "CHR/USDT",
+      "Price(USDT)": 0.35614,
+      "Equivalent price(USD)": 0.35,
+      "24H Change": "+19.51%",
+      "24H Volume(USDT)": "28.95M",
+      "AI annualized return": "+625.10%"
+    },
+    {
+      "Pair": "KEY/USDT",
+      "Price(USDT)": 0.017067,
+      "Equivalent price(USD)": 0.017,
+      "24H Change": "-1.15%",
+      "24H Volume(USDT)": "28.54M",
+      "AI annualized return": "+551.20%"
+    },
+    {
+      "Pair": "QTUM/USDT",
+      "Price(USDT)": 14.2088,
+      "Equivalent price(USD)": 14.2,
+      "24H Change": "+0.51%",
+      "24H Volume(USDT)": "27.41M",
+      "AI annualized return": "+401.32%"
+    },
+    {
+      "Pair": "SXP/USDT",
+      "Price(USDT)": 4.494,
+      "Equivalent price(USD)": 4.49,
+      "24H Change": "-1.45%",
+      "24H Volume(USDT)": "27.14M",
+      "AI annualized return": "+918.57%"
+    },
+    {
+      "Pair": "MANA/USDT",
+      "Price(USDT)": 1.4162,
+      "Equivalent price(USD)": 1.41,
+      "24H Change": "-3.80%",
+      "24H Volume(USDT)": "27.04M",
+      "AI annualized return": "+347.45%"
+    },
+    {
+      "Pair": "EOS3L/USDT",
+      "Price(USDT)": 4.46,
+      "Equivalent price(USD)": 4.46,
+      "24H Change": "+11.67%",
+      "24H Volume(USDT)": "26.97M",
+      "AI annualized return": "+718.30%"
+    },
+    {
+      "Pair": "WAVES/USDT",
+      "Price(USDT)": 22.4752,
+      "Equivalent price(USD)": 22.47,
+      "24H Change": "+21.88%",
+      "24H Volume(USDT)": "25.47M",
+      "AI annualized return": 9.6087
+    },
+    {
+      "Pair": "ETH3L/USDT",
+      "Price(USDT)": 48.419,
+      "Equivalent price(USD)": 48.41,
+      "24H Change": "+3.47%",
+      "24H Volume(USDT)": "24.8M",
+      "AI annualized return": "+756.00%"
+    },
+    {
+      "Pair": "NEAR/USDT",
+      "Price(USDT)": 5.3029,
+      "Equivalent price(USD)": 5.3,
+      "24H Change": "+9.40%",
+      "24H Volume(USDT)": "24.59M",
+      "AI annualized return": "+326.82%"
+    },
+    {
+      "Pair": "TRX3L/USDT",
+      "Price(USDT)": 2.556,
+      "Equivalent price(USD)": 2.55,
+      "24H Change": "-1.62%",
+      "24H Volume(USDT)": "24.14M",
+      "AI annualized return": "+1692.89%"
+    },
+    {
+      "Pair": "SOL/USDT",
+      "Price(USDT)": 42.3949,
+      "Equivalent price(USD)": 42.39,
+      "24H Change": "-3.87%",
+      "24H Volume(USDT)": "24.04M",
+      "AI annualized return": "+401.32%"
+    },
+    {
+      "Pair": "LUNA/USDT",
+      "Price(USDT)": 16.0145,
+      "Equivalent price(USD)": 16.01,
+      "24H Change": "-2.34%",
+      "24H Volume(USDT)": "23.48M",
+      "AI annualized return": "+781.85%"
+    },
+    {
+      "Pair": "NEO/USDT",
+      "Price(USDT)": 89.53,
+      "Equivalent price(USD)": 89.53,
+      "24H Change": "-1.30%",
+      "24H Volume(USDT)": "22.96M",
+      "AI annualized return": "+345.80%"
+    },
+    {
+      "Pair": "HNT3S/USDT",
+      "Price(USDT)": 4.191,
+      "Equivalent price(USD)": 4.19,
+      "24H Change": "+8.38%",
+      "24H Volume(USDT)": "22.51M",
+      "AI annualized return": "+5856.05%"
+    },
+    {
+      "Pair": "XLM/USDT",
+      "Price(USDT)": 0.49007,
+      "Equivalent price(USD)": 0.49,
+      "24H Change": "-0.46%",
+      "24H Volume(USDT)": "22.16M",
+      "AI annualized return": "+297.98%"
+    },
+    {
+      "Pair": "NEAR3L/USDT",
+      "Price(USDT)": 16.36,
+      "Equivalent price(USD)": 16.36,
+      "24H Change": "+27.42%",
+      "24H Volume(USDT)": "21.61M",
+      "AI annualized return": "+3952.51%"
+    },
+    {
+      "Pair": "ETC3S/USDT",
+      "Price(USDT)": 46.683,
+      "Equivalent price(USD)": 46.68,
+      "24H Change": "+1.49%",
+      "24H Volume(USDT)": "21.48M",
+      "AI annualized return": "+1473.93%"
+    },
+    {
+      "Pair": "LINK1S/USDT",
+      "Price(USDT)": 4.23,
+      "Equivalent price(USD)": 4.23,
+      "24H Change": "-2.15%",
+      "24H Volume(USDT)": "21.05M",
+      "AI annualized return": "+559.72%"
+    },
+    {
+      "Pair": "XMR/USDT",
+      "Price(USDT)": 406.15,
+      "Equivalent price(USD)": 406.15,
+      "24H Change": "-3.31%",
+      "24H Volume(USDT)": "21.03M",
+      "AI annualized return": "+445.47%"
+    },
+    {
+      "Pair": "KSM/USDT",
+      "Price(USDT)": 391.1324,
+      "Equivalent price(USD)": 391.13,
+      "24H Change": "+1.55%",
+      "24H Volume(USDT)": "20.49M",
+      "AI annualized return": "+328.27%"
+    },
+    {
+      "Pair": "FOR/USDT",
+      "Price(USDT)": 0.116539,
+      "Equivalent price(USD)": 0.11,
+      "24H Change": "+19.73%",
+      "24H Volume(USDT)": "20.42M",
+      "AI annualized return": "+650.63%"
+    },
+    {
+      "Pair": "SWRV/USDT",
+      "Price(USDT)": 2.6164,
+      "Equivalent price(USD)": 2.61,
+      "24H Change": "+59.39%",
+      "24H Volume(USDT)": "19.68M",
+      "AI annualized return": "+1887.88%"
+    },
+    {
+      "Pair": "PSG/USDT",
+      "Price(USDT)": 44.077,
+      "Equivalent price(USD)": 44.07,
+      "24H Change": "-0.49%",
+      "24H Volume(USDT)": "19.41M",
+      "AI annualized return": "+1199.47%"
+    },
+    {
+      "Pair": "BAGS/USDT",
+      "Price(USDT)": 152.7589,
+      "Equivalent price(USD)": 152.75,
+      "24H Change": "-1.79%",
+      "24H Volume(USDT)": "19.37M",
+      "AI annualized return": "+2027.93%"
+    },
+    {
+      "Pair": "ALGO/USDT",
+      "Price(USDT)": 1.3505,
+      "Equivalent price(USD)": 1.35,
+      "24H Change": "+6.79%",
+      "24H Volume(USDT)": "19.26M",
+      "AI annualized return": "+350.64%"
+    },
+    {
+      "Pair": "BZRX/USDT",
+      "Price(USDT)": 0.8484,
+      "Equivalent price(USD)": 0.84,
+      "24H Change": "+14.39%",
+      "24H Volume(USDT)": "19.25M",
+      "AI annualized return": "+967.32%"
+    },
+    {
+      "Pair": "1INCH/USDT",
+      "Price(USDT)": 5.385191,
+      "Equivalent price(USD)": 5.38,
+      "24H Change": "-1.50%",
+      "24H Volume(USDT)": "18.71M",
+      "AI annualized return": "+436.65%"
+    },
+    {
+      "Pair": "POLS/USDT",
+      "Price(USDT)": 2.956,
+      "Equivalent price(USD)": 2.95,
+      "24H Change": "-2.50%",
+      "24H Volume(USDT)": "17.44M",
+      "AI annualized return": "+590.75%"
+    },
+    {
+      "Pair": "TRX3S/USDT",
+      "Price(USDT)": 1.837,
+      "Equivalent price(USD)": 1.83,
+      "24H Change": "+1.21%",
+      "24H Volume(USDT)": "17.2M",
+      "AI annualized return": "+1016.58%"
+    },
+    {
+      "Pair": "FLM/USDT",
+      "Price(USDT)": 0.7571,
+      "Equivalent price(USD)": 0.75,
+      "24H Change": "+3.53%",
+      "24H Volume(USDT)": "17.04M",
+      "AI annualized return": "+418.77%"
+    },
+    {
+      "Pair": "ENJ/USDT",
+      "Price(USDT)": 2.60739,
+      "Equivalent price(USD)": 2.6,
+      "24H Change": "-0.36%",
+      "24H Volume(USDT)": "16.87M",
+      "AI annualized return": "+518.67%"
+    },
+    {
+      "Pair": "DOGE3L/USDT",
+      "Price(USDT)": 85.764,
+      "Equivalent price(USD)": 85.76,
+      "24H Change": "-7.24%",
+      "24H Volume(USDT)": "16.18M",
+      "AI annualized return": "+2609.00%"
+    },
+    {
+      "Pair": "SKL/USDT",
+      "Price(USDT)": 0.697959,
+      "Equivalent price(USD)": 0.69,
+      "24H Change": "+23.39%",
+      "24H Volume(USDT)": "15.77M",
+      "AI annualized return": "+332.93%"
+    },
+    {
+      "Pair": "IOST/USDT",
+      "Price(USDT)": 0.060404,
+      "Equivalent price(USD)": 0.06,
+      "24H Change": "-1.33%",
+      "24H Volume(USDT)": "15.56M",
+      "AI annualized return": "+977.85%"
+    },
+    {
+      "Pair": "FRONT/USDT",
+      "Price(USDT)": 2.885727,
+      "Equivalent price(USD)": 2.88,
+      "24H Change": "+37.63%",
+      "24H Volume(USDT)": "15.47M",
+      "AI annualized return": "+1379.71%"
+    },
+    {
+      "Pair": "GRT/USDT",
+      "Price(USDT)": 1.509847,
+      "Equivalent price(USD)": 1.5,
+      "24H Change": "+1.43%",
+      "24H Volume(USDT)": "15.14M",
+      "AI annualized return": "+268.90%"
+    },
+    {
+      "Pair": "CTSI/USDT",
+      "Price(USDT)": 0.63327,
+      "Equivalent price(USD)": 0.63,
+      "24H Change": "+4.85%",
+      "24H Volume(USDT)": "15.09M",
+      "AI annualized return": "+1051.42%"
+    },
+    {
+      "Pair": "JUV/USDT",
+      "Price(USDT)": 17.211,
+      "Equivalent price(USD)": 17.21,
+      "24H Change": "+7.51%",
+      "24H Volume(USDT)": "15.01M",
+      "AI annualized return": "+437.14%"
+    },
+    {
+      "Pair": "CELO/USDT",
+      "Price(USDT)": 5.1467,
+      "Equivalent price(USD)": 5.14,
+      "24H Change": "-1.57%",
+      "24H Volume(USDT)": "14.82M",
+      "AI annualized return": "+969.39%"
+    },
+    {
+      "Pair": "XEM/USDT",
+      "Price(USDT)": 0.332,
+      "Equivalent price(USD)": 0.33,
+      "24H Change": "+1.13%",
+      "24H Volume(USDT)": "14.39M",
+      "AI annualized return": "+437.31%"
+    },
+    {
+      "Pair": "ASR/USDT",
+      "Price(USDT)": 9.543,
+      "Equivalent price(USD)": 9.54,
+      "24H Change": "+2.93%",
+      "24H Volume(USDT)": "14.19M",
+      "AI annualized return": "+386.36%"
+    },
+    {
+      "Pair": "ROSE/USDT",
+      "Price(USDT)": 0.14916,
+      "Equivalent price(USD)": 0.14,
+      "24H Change": "-0.80%",
+      "24H Volume(USDT)": "13.65M",
+      "AI annualized return": "+264.97%"
+    },
+    {
+      "Pair": "COMP/USDT",
+      "Price(USDT)": 645.51,
+      "Equivalent price(USD)": 645.51,
+      "24H Change": "+2.01%",
+      "24H Volume(USDT)": "13.3M",
+      "AI annualized return": "+421.61%"
+    },
+    {
+      "Pair": "CTK/USDT",
+      "Price(USDT)": 2.4449,
+      "Equivalent price(USD)": 2.44,
+      "24H Change": "-4.14%",
+      "24H Volume(USDT)": "13.16M",
+      "AI annualized return": "+886.07%"
+    },
+    {
+      "Pair": "PHA/USDT",
+      "Price(USDT)": 0.885061,
+      "Equivalent price(USD)": 0.88,
+      "24H Change": "-3.12%",
+      "24H Volume(USDT)": "12.92M",
+      "AI annualized return": "+480.78%"
+    },
+    {
+      "Pair": "BEL/USDT",
+      "Price(USDT)": 3.8399,
+      "Equivalent price(USD)": 3.83,
+      "24H Change": "+5.35%",
+      "24H Volume(USDT)": "12.87M",
+      "AI annualized return": "+308.35%"
+    },
+    {
+      "Pair": "LTC1S/USDT",
+      "Price(USDT)": 3.461,
+      "Equivalent price(USD)": 3.46,
+      "24H Change": "-1.51%",
+      "24H Volume(USDT)": "12.85M",
+      "AI annualized return": "+558.75%"
+    },
+    {
+      "Pair": "MX/USDT",
+      "Price(USDT)": 1.1754,
+      "Equivalent price(USD)": 1.17,
+      "24H Change": "+8.25%",
+      "24H Volume(USDT)": "12.55M",
+      "AI annualized return": "+423.11%"
+    },
+    {
+      "Pair": "ENJ3L/USDT",
+      "Price(USDT)": 4.375,
+      "Equivalent price(USD)": 4.37,
+      "24H Change": "-1.57%",
+      "24H Volume(USDT)": "12.02M",
+      "AI annualized return": "+2163.12%"
+    },
+    {
+      "Pair": "YFI/USDT",
+      "Price(USDT)": 46804.48,
+      "Equivalent price(USD)": 46804.48,
+      "24H Change": "-1.07%",
+      "24H Volume(USDT)": "11.87M",
+      "AI annualized return": "+229.98%"
+    },
+    {
+      "Pair": "WICC/USDT",
+      "Price(USDT)": 0.4769,
+      "Equivalent price(USD)": 0.47,
+      "24H Change": "+0.10%",
+      "24H Volume(USDT)": "11.69M",
+      "AI annualized return": "+355.37%"
+    },
+    {
+      "Pair": "DGB/USDT",
+      "Price(USDT)": 0.12732,
+      "Equivalent price(USD)": 0.12,
+      "24H Change": "+3.16%",
+      "24H Volume(USDT)": "11.65M",
+      "AI annualized return": "+278.16%"
+    },
+    {
+      "Pair": "OG/USDT",
+      "Price(USDT)": 9.588,
+      "Equivalent price(USD)": 9.58,
+      "24H Change": "+4.84%",
+      "24H Volume(USDT)": "11.57M",
+      "AI annualized return": "+319.12%"
+    },
+    {
+      "Pair": "ZEN/USDT",
+      "Price(USDT)": 118.226,
+      "Equivalent price(USD)": 118.22,
+      "24H Change": "+0.11%",
+      "24H Volume(USDT)": "11.51M",
+      "AI annualized return": "+325.13%"
+    },
+    {
+      "Pair": "ONE/USDT",
+      "Price(USDT)": 0.136656,
+      "Equivalent price(USD)": 0.13,
+      "24H Change": "+4.26%",
+      "24H Volume(USDT)": "11.39M",
+      "AI annualized return": "+840.92%"
+    },
+    {
+      "Pair": "XLM1S/USDT",
+      "Price(USDT)": 2.115,
+      "Equivalent price(USD)": 2.11,
+      "24H Change": "+0.67%",
+      "24H Volume(USDT)": "11.32M",
+      "AI annualized return": "+334.43%"
+    },
+    {
+      "Pair": "THETA3L/USDT",
+      "Price(USDT)": 105.274,
+      "Equivalent price(USD)": 105.27,
+      "24H Change": "-4.92%",
+      "24H Volume(USDT)": "10.99M",
+      "AI annualized return": "+1346.64%"
+    },
+    {
+      "Pair": "OMG/USDT",
+      "Price(USDT)": 7.2589,
+      "Equivalent price(USD)": 7.25,
+      "24H Change": "-0.18%",
+      "24H Volume(USDT)": "10.9M",
+      "AI annualized return": "+334.07%"
+    },
+    {
+      "Pair": "XRP3L/USDT",
+      "Price(USDT)": 1.678,
+      "Equivalent price(USD)": 1.67,
+      "24H Change": "+3.26%",
+      "24H Volume(USDT)": "10.64M",
+      "AI annualized return": "+1481.91%"
+    },
+    {
+      "Pair": "RSR/USDT",
+      "Price(USDT)": 0.083718,
+      "Equivalent price(USD)": 0.083,
+      "24H Change": "+1.69%",
+      "24H Volume(USDT)": "10.51M",
+      "AI annualized return": "+338.67%"
+    },
+    {
+      "Pair": "CFX/USDT",
+      "Price(USDT)": 0.983,
+      "Equivalent price(USD)": 0.98,
+      "24H Change": "-2.67%",
+      "24H Volume(USDT)": "10.41M",
+      "AI annualized return": "+352.82%"
+    },
+    {
+      "Pair": "INJ/USDT",
+      "Price(USDT)": 24.4516,
+      "Equivalent price(USD)": 24.45,
+      "24H Change": "+15.59%",
+      "24H Volume(USDT)": "10.4M",
+      "AI annualized return": "+951.66%"
+    },
+    {
+      "Pair": "AVAX3L/USDT",
+      "Price(USDT)": 15.858,
+      "Equivalent price(USD)": 15.85,
+      "24H Change": "+6.10%",
+      "24H Volume(USDT)": "10.39M",
+      "AI annualized return": "+2882.30%"
+    },
+    {
+      "Pair": "VET3S/USDT",
+      "Price(USDT)": 2.531,
+      "Equivalent price(USD)": 2.53,
+      "24H Change": "+8.30%",
+      "24H Volume(USDT)": "10.17M",
+      "AI annualized return": "+1345.22%"
+    },
+    {
+      "Pair": "VTHO/USDT",
+      "Price(USDT)": 0.017677,
+      "Equivalent price(USD)": 0.017,
+      "24H Change": "-2.84%",
+      "24H Volume(USDT)": "10.13M",
+      "AI annualized return": "+1031.28%"
+    },
+    {
+      "Pair": "COMP1S/USDT",
+      "Price(USDT)": 2.742,
+      "Equivalent price(USD)": 2.74,
+      "24H Change": "-2.04%",
+      "24H Volume(USDT)": "10.09M",
+      "AI annualized return": "+365.93%"
+    },
+    {
+      "Pair": "FTM3S/USDT",
+      "Price(USDT)": 3.268,
+      "Equivalent price(USD)": 3.26,
+      "24H Change": "+5.76%",
+      "24H Volume(USDT)": "10M",
+      "AI annualized return": "+4764.38%"
+    },
+    {
+      "Pair": "MASK/USDT",
+      "Price(USDT)": 14.665,
+      "Equivalent price(USD)": 14.66,
+      "24H Change": "+4.68%",
+      "24H Volume(USDT)": "9.79M",
+      "AI annualized return": "+330.46%"
+    },
+    {
+      "Pair": "XVS/USDT",
+      "Price(USDT)": 118.892,
+      "Equivalent price(USD)": 118.89,
+      "24H Change": "+59.60%",
+      "24H Volume(USDT)": "9.61M",
+      "AI annualized return": "+1372.21%"
+    },
+    {
+      "Pair": "BAT3S/USDT",
+      "Price(USDT)": 1.621,
+      "Equivalent price(USD)": 1.62,
+      "24H Change": "-0.73%",
+      "24H Volume(USDT)": "9.59M",
+      "AI annualized return": "+878.03%"
+    },
+    {
+      "Pair": "IOTA/USDT",
+      "Price(USDT)": 2.2808,
+      "Equivalent price(USD)": 2.28,
+      "24H Change": "+0.14%",
+      "24H Volume(USDT)": "9.45M",
+      "AI annualized return": "+465.56%"
+    },
+    {
+      "Pair": "SRM3S/USDT",
+      "Price(USDT)": 1.734,
+      "Equivalent price(USD)": 1.73,
+      "24H Change": "-8.30%",
+      "24H Volume(USDT)": "9.42M",
+      "AI annualized return": "+5698.03%"
+    },
+    {
+      "Pair": "RUNE3L/USDT",
+      "Price(USDT)": 33.205,
+      "Equivalent price(USD)": 33.2,
+      "24H Change": "+11.21%",
+      "24H Volume(USDT)": "9.3M",
+      "AI annualized return": "+1114.86%"
+    },
+    {
+      "Pair": "AVAX/USDT",
+      "Price(USDT)": 27.9879,
+      "Equivalent price(USD)": 27.98,
+      "24H Change": "+2.15%",
+      "24H Volume(USDT)": "9.18M",
+      "AI annualized return": "+471.02%"
+    },
+    {
+      "Pair": "BTM/USDT",
+      "Price(USDT)": 0.1849,
+      "Equivalent price(USD)": 0.18,
+      "24H Change": "+0.05%",
+      "24H Volume(USDT)": "9.15M",
+      "AI annualized return": "+180.64%"
+    },
+    {
+      "Pair": "WRX/USDT",
+      "Price(USDT)": 2.74965,
+      "Equivalent price(USD)": 2.74,
+      "24H Change": "-6.25%",
+      "24H Volume(USDT)": "8.93M",
+      "AI annualized return": "+599.18%"
+    },
+    {
+      "Pair": "ANKR/USDT",
+      "Price(USDT)": 0.161668,
+      "Equivalent price(USD)": 0.16,
+      "24H Change": "-3.00%",
+      "24H Volume(USDT)": "8.79M",
+      "AI annualized return": "+403.79%"
+    },
+    {
+      "Pair": "TRB3S/USDT",
+      "Price(USDT)": 4.893,
+      "Equivalent price(USD)": 4.89,
+      "24H Change": "-5.05%",
+      "24H Volume(USDT)": "8.54M",
+      "AI annualized return": "+2151.43%"
+    },
+    {
+      "Pair": "MBL/USDT",
+      "Price(USDT)": 0.016242,
+      "Equivalent price(USD)": 0.016,
+      "24H Change": "-2.47%",
+      "24H Volume(USDT)": "8.53M",
+      "AI annualized return": "+898.60%"
+    },
+    {
+      "Pair": "TT/USDT",
+      "Price(USDT)": 0.01834,
+      "Equivalent price(USD)": 0.018,
+      "24H Change": "+2.46%",
+      "24H Volume(USDT)": "8.46M",
+      "AI annualized return": "+438.09%"
+    },
+    {
+      "Pair": "SNX/USDT",
+      "Price(USDT)": 17.589,
+      "Equivalent price(USD)": 17.58,
+      "24H Change": "+5.52%",
+      "24H Volume(USDT)": "8.42M",
+      "AI annualized return": "+338.24%"
+    },
+    {
+      "Pair": "ACM/USDT",
+      "Price(USDT)": 10.66,
+      "Equivalent price(USD)": 10.66,
+      "24H Change": "+6.14%",
+      "24H Volume(USDT)": "8.07M",
+      "AI annualized return": "+495.55%"
+    },
+    {
+      "Pair": "FLOW/USDT",
+      "Price(USDT)": 30.3475,
+      "Equivalent price(USD)": 30.34,
+      "24H Change": "-1.06%",
+      "24H Volume(USDT)": "8.03M",
+      "AI annualized return": "+620.99%"
+    },
+    {
+      "Pair": "AXS/USDT",
+      "Price(USDT)": 9.53696,
+      "Equivalent price(USD)": 9.53,
+      "24H Change": "-4.19%",
+      "24H Volume(USDT)": "7.95M",
+      "AI annualized return": "+483.88%"
+    },
+    {
+      "Pair": "YFII3S/USDT",
+      "Price(USDT)": 2.668,
+      "Equivalent price(USD)": 2.66,
+      "24H Change": "-0.78%",
+      "24H Volume(USDT)": "7.91M",
+      "AI annualized return": "+943.13%"
+    },
+    {
+      "Pair": "BEAM/USDT",
+      "Price(USDT)": 1.3189,
+      "Equivalent price(USD)": 1.31,
+      "24H Change": "+5.61%",
+      "24H Volume(USDT)": "7.83M",
+      "AI annualized return": "+457.45%"
+    },
+    {
+      "Pair": "XTZ/USDT",
+      "Price(USDT)": 5.2532,
+      "Equivalent price(USD)": 5.25,
+      "24H Change": "+0.99%",
+      "24H Volume(USDT)": "7.75M",
+      "AI annualized return": "+279.49%"
+    },
+    {
+      "Pair": "XRP1S/USDT",
+      "Price(USDT)": 0.407,
+      "Equivalent price(USD)": 0.4,
+      "24H Change": "-0.97%",
+      "24H Volume(USDT)": "7.7M",
+      "AI annualized return": "+353.42%"
+    },
+    {
+      "Pair": "RUNE/USDT",
+      "Price(USDT)": 14.3673,
+      "Equivalent price(USD)": 14.36,
+      "24H Change": "+3.60%",
+      "24H Volume(USDT)": "7.58M",
+      "AI annualized return": "+220.18%"
+    },
+    {
+      "Pair": "MXC/USDT",
+      "Price(USDT)": 0.043959,
+      "Equivalent price(USD)": 0.043,
+      "24H Change": "-4.92%",
+      "24H Volume(USDT)": "7.47M",
+      "AI annualized return": "+596.75%"
+    },
+    {
+      "Pair": "ONT1S/USDT",
+      "Price(USDT)": 5.307,
+      "Equivalent price(USD)": 5.3,
+      "24H Change": "-2.73%",
+      "24H Volume(USDT)": "7.43M",
+      "AI annualized return": "+563.13%"
+    },
+    {
+      "Pair": "KAVA1S/USDT",
+      "Price(USDT)": 2.961,
+      "Equivalent price(USD)": 2.96,
+      "24H Change": "-1.14%",
+      "24H Volume(USDT)": "7.24M",
+      "AI annualized return": "+373.73%"
+    },
+    {
+      "Pair": "ZRX/USDT",
+      "Price(USDT)": 1.6651,
+      "Equivalent price(USD)": 1.66,
+      "24H Change": "-0.25%",
+      "24H Volume(USDT)": "7.19M",
+      "AI annualized return": "+516.74%"
+    },
+    {
+      "Pair": "AION/USDT",
+      "Price(USDT)": 0.324,
+      "Equivalent price(USD)": 0.32,
+      "24H Change": "+2.08%",
+      "24H Volume(USDT)": "7.15M",
+      "AI annualized return": "+692.20%"
+    },
+    {
+      "Pair": "FET/USDT",
+      "Price(USDT)": 0.60844,
+      "Equivalent price(USD)": 0.6,
+      "24H Change": "+3.16%",
+      "24H Volume(USDT)": "7.08M",
+      "AI annualized return": "+747.33%"
+    },
+    {
+      "Pair": "ETC1S/USDT",
+      "Price(USDT)": 5.061,
+      "Equivalent price(USD)": 5.06,
+      "24H Change": "+0.48%",
+      "24H Volume(USDT)": "7.01M",
+      "AI annualized return": "+575.79%"
+    },
+    {
+      "Pair": "OCEAN/USDT",
+      "Price(USDT)": 1.2941,
+      "Equivalent price(USD)": 1.29,
+      "24H Change": "-2.70%",
+      "24H Volume(USDT)": "6.82M",
+      "AI annualized return": "+361.76%"
+    },
+    {
+      "Pair": "CRO/USDT",
+      "Price(USDT)": 0.1868,
+      "Equivalent price(USD)": 0.18,
+      "24H Change": "+0.97%",
+      "24H Volume(USDT)": "6.78M",
+      "AI annualized return": "+162.74%"
+    },
+    {
+      "Pair": "FTM3L/USDT",
+      "Price(USDT)": 1.789,
+      "Equivalent price(USD)": 1.78,
+      "24H Change": "-18.24%",
+      "24H Volume(USDT)": "6.76M",
+      "AI annualized return": "+4730.85%"
+    },
+    {
+      "Pair": "STORJ/USDT",
+      "Price(USDT)": 1.9239,
+      "Equivalent price(USD)": 1.92,
+      "24H Change": "-2.03%",
+      "24H Volume(USDT)": "6.74M",
+      "AI annualized return": "+658.19%"
+    },
+    {
+      "Pair": "HNT/USDT",
+      "Price(USDT)": 16.473,
+      "Equivalent price(USD)": 16.47,
+      "24H Change": "-3.10%",
+      "24H Volume(USDT)": "6.72M",
+      "AI annualized return": "+776.13%"
+    },
+    {
+      "Pair": "ZIL/USDT",
+      "Price(USDT)": 0.192209,
+      "Equivalent price(USD)": 0.19,
+      "24H Change": "+0.13%",
+      "24H Volume(USDT)": "6.64M",
+      "AI annualized return": "+477.82%"
+    },
+    {
+      "Pair": "DATA/USDT",
+      "Price(USDT)": 0.14735,
+      "Equivalent price(USD)": 0.14,
+      "24H Change": "+1.10%",
+      "24H Volume(USDT)": "6.64M",
+      "AI annualized return": "+547.46%"
+    },
+    {
+      "Pair": "NMR/USDT",
+      "Price(USDT)": 64.395,
+      "Equivalent price(USD)": 64.39,
+      "24H Change": "-0.88%",
+      "24H Volume(USDT)": "6.63M",
+      "AI annualized return": "+219.60%"
+    },
+    {
+      "Pair": "NANO/USDT",
+      "Price(USDT)": 13.1516,
+      "Equivalent price(USD)": 13.15,
+      "24H Change": "-0.44%",
+      "24H Volume(USDT)": "6.56M",
+      "AI annualized return": "+598.55%"
+    },
+    {
+      "Pair": "XLM3L/USDT",
+      "Price(USDT)": 3.519,
+      "Equivalent price(USD)": 3.51,
+      "24H Change": "-1.70%",
+      "24H Volume(USDT)": "6.48M",
+      "AI annualized return": "+1020.40%"
+    },
+    {
+      "Pair": "ETH2L/USDT",
+      "Price(USDT)": 1.626,
+      "Equivalent price(USD)": 1.62,
+      "24H Change": "+2.33%",
+      "24H Volume(USDT)": "6.46M",
+      "AI annualized return": "+315.28%"
+    },
+    {
+      "Pair": "BADGER/USDT",
+      "Price(USDT)": 31.7585,
+      "Equivalent price(USD)": 31.75,
+      "24H Change": "-4.75%",
+      "24H Volume(USDT)": "5.79M",
+      "AI annualized return": "+279.55%"
+    },
+    {
+      "Pair": "ANT/USDT",
+      "Price(USDT)": 9.67,
+      "Equivalent price(USD)": 9.67,
+      "24H Change": "+6.11%",
+      "24H Volume(USDT)": "5.71M",
+      "AI annualized return": "+443.87%"
+    },
+    {
+      "Pair": "WOO/USDT",
+      "Price(USDT)": 0.97124,
+      "Equivalent price(USD)": 0.97,
+      "24H Change": "-0.75%",
+      "24H Volume(USDT)": "5.6M",
+      "AI annualized return": "+477.65%"
+    },
+    {
+      "Pair": "REP/USDT",
+      "Price(USDT)": 36.274,
+      "Equivalent price(USD)": 36.27,
+      "24H Change": "-1.04%",
+      "24H Volume(USDT)": "5.59M",
+      "AI annualized return": "+599.15%"
+    },
+    {
+      "Pair": "USDC/USDT",
+      "Price(USDT)": 0.9994,
+      "Equivalent price(USD)": 0.99,
+      "24H Change": "+0.02%",
+      "24H Volume(USDT)": "5.45M",
+      "AI annualized return": "--"
+    },
+    {
+      "Pair": "EGLD/USDT",
+      "Price(USDT)": 175.96,
+      "Equivalent price(USD)": 175.96,
+      "24H Change": "-1.38%",
+      "24H Volume(USDT)": "5.4M",
+      "AI annualized return": "+216.93%"
+    },
+    {
+      "Pair": "ADA3L/USDT",
+      "Price(USDT)": 3.897,
+      "Equivalent price(USD)": 3.89,
+      "24H Change": "-4.23%",
+      "24H Volume(USDT)": "5.29M",
+      "AI annualized return": "+1688.98%"
+    },
+    {
+      "Pair": "ALPHA/USDT",
+      "Price(USDT)": 1.59487,
+      "Equivalent price(USD)": 1.59,
+      "24H Change": "+12.42%",
+      "24H Volume(USDT)": "5.27M",
+      "AI annualized return": "+447.79%"
+    },
+    {
+      "Pair": "HPT/USDT",
+      "Price(USDT)": 0.014405,
+      "Equivalent price(USD)": 0.014,
+      "24H Change": "+11.00%",
+      "24H Volume(USDT)": "5.26M",
+      "AI annualized return": "+219.59%"
+    },
+    {
+      "Pair": "ADA1S/USDT",
+      "Price(USDT)": 1.47,
+      "Equivalent price(USD)": 1.47,
+      "24H Change": "-0.14%",
+      "24H Volume(USDT)": "5.08M",
+      "AI annualized return": "+247.34%"
+    },
+    {
+      "Pair": "YFII/USDT",
+      "Price(USDT)": 2464.24,
+      "Equivalent price(USD)": 2464.24,
+      "24H Change": "+0.24%",
+      "24H Volume(USDT)": "4.97M",
+      "AI annualized return": "+261.31%"
+    },
+    {
+      "Pair": "1INCH3S/USDT",
+      "Price(USDT)": 2.135,
+      "Equivalent price(USD)": 2.13,
+      "24H Change": "-11.48%",
+      "24H Volume(USDT)": "4.92M",
+      "AI annualized return": "+1135.13%"
+    },
+    {
+      "Pair": "COCOS/USDT",
+      "Price(USDT)": 1.2955,
+      "Equivalent price(USD)": 1.29,
+      "24H Change": "+13.20%",
+      "24H Volume(USDT)": "4.87M",
+      "AI annualized return": "+943.43%"
+    },
+    {
+      "Pair": "BAT3L/USDT",
+      "Price(USDT)": 15.948,
+      "Equivalent price(USD)": 15.94,
+      "24H Change": "+0.58%",
+      "24H Volume(USDT)": "4.8M",
+      "AI annualized return": "+5991.36%"
+    },
+    {
+      "Pair": "COTI/USDT",
+      "Price(USDT)": 0.39635,
+      "Equivalent price(USD)": 0.39,
+      "24H Change": "+7.86%",
+      "24H Volume(USDT)": "4.75M",
+      "AI annualized return": "+1009.39%"
+    },
+    {
+      "Pair": "EGLD3S/USDT",
+      "Price(USDT)": 3.854,
+      "Equivalent price(USD)": 3.85,
+      "24H Change": "+3.63%",
+      "24H Volume(USDT)": "4.72M",
+      "AI annualized return": "+931.92%"
+    },
+    {
+      "Pair": "DOT3L/USDT",
+      "Price(USDT)": 2.104,
+      "Equivalent price(USD)": 2.1,
+      "24H Change": "+27.83%",
+      "24H Volume(USDT)": "4.7M",
+      "AI annualized return": "+668.12%"
+    },
+    {
+      "Pair": "MKR/USDT",
+      "Price(USDT)": 4139.52,
+      "Equivalent price(USD)": 4139.52,
+      "24H Change": "-1.38%",
+      "24H Volume(USDT)": "4.59M",
+      "AI annualized return": "+282.27%"
+    },
+    {
+      "Pair": "TRB/USDT",
+      "Price(USDT)": 82.6098,
+      "Equivalent price(USD)": 82.6,
+      "24H Change": "+1.69%",
+      "24H Volume(USDT)": "4.52M",
+      "AI annualized return": "+1164.79%"
+    },
+    {
+      "Pair": "BAND/USDT",
+      "Price(USDT)": 16.3545,
+      "Equivalent price(USD)": 16.35,
+      "24H Change": "-2.84%",
+      "24H Volume(USDT)": "4.43M",
+      "AI annualized return": "+329.29%"
+    },
+    {
+      "Pair": "FTT/USDT",
+      "Price(USDT)": 52.3083,
+      "Equivalent price(USD)": 52.3,
+      "24H Change": "-0.40%",
+      "24H Volume(USDT)": "4.32M",
+      "AI annualized return": "+182.47%"
+    },
+    {
+      "Pair": "WAVES3L/USDT",
+      "Price(USDT)": 40.429,
+      "Equivalent price(USD)": 40.42,
+      "24H Change": "+63.88%",
+      "24H Volume(USDT)": "4.26M",
+      "AI annualized return": "+4483.65%"
+    },
+    {
+      "Pair": "PNT/USDT",
+      "Price(USDT)": 1.9243,
+      "Equivalent price(USD)": 1.92,
+      "24H Change": "+12.66%",
+      "24H Volume(USDT)": "4.25M",
+      "AI annualized return": "+726.14%"
+    },
+    {
+      "Pair": "HBAR/USDT",
+      "Price(USDT)": 0.28213,
+      "Equivalent price(USD)": 0.28,
+      "24H Change": "-0.18%",
+      "24H Volume(USDT)": "4.1M",
+      "AI annualized return": "+591.26%"
+    },
+    {
+      "Pair": "POND/USDT",
+      "Price(USDT)": 0.173868,
+      "Equivalent price(USD)": 0.17,
+      "24H Change": "+1.47%",
+      "24H Volume(USDT)": "4.07M",
+      "AI annualized return": "+990.04%"
+    },
+    {
+      "Pair": "ALGO1S/USDT",
+      "Price(USDT)": 2.041,
+      "Equivalent price(USD)": 2.04,
+      "24H Change": "-7.06%",
+      "24H Volume(USDT)": "4.01M",
+      "AI annualized return": "+361.28%"
+    },
+    {
+      "Pair": "DIA/USDT",
+      "Price(USDT)": 4.184,
+      "Equivalent price(USD)": 4.18,
+      "24H Change": "+10.78%",
+      "24H Volume(USDT)": "3.95M",
+      "AI annualized return": "+409.37%"
+    },
+    {
+      "Pair": "SAND/USDT",
+      "Price(USDT)": 0.559148,
+      "Equivalent price(USD)": 0.55,
+      "24H Change": "-0.01%",
+      "24H Volume(USDT)": "3.95M",
+      "AI annualized return": "+458.45%"
+    },
+    {
+      "Pair": "REEF/USDT",
+      "Price(USDT)": 0.036057,
+      "Equivalent price(USD)": 0.036,
+      "24H Change": "+4.28%",
+      "24H Volume(USDT)": "3.94M",
+      "AI annualized return": "+308.83%"
+    },
+    {
+      "Pair": "EOS3S/USDT",
+      "Price(USDT)": 0.485,
+      "Equivalent price(USD)": 0.48,
+      "24H Change": "-15.36%",
+      "24H Volume(USDT)": "3.92M",
+      "AI annualized return": "+1096.20%"
+    },
+    {
+      "Pair": "TOMO3L/USDT",
+      "Price(USDT)": 0.633,
+      "Equivalent price(USD)": 0.63,
+      "24H Change": "+33.83%",
+      "24H Volume(USDT)": "3.9M",
+      "AI annualized return": "+931.83%"
+    },
+    {
+      "Pair": "YFII3L/USDT",
+      "Price(USDT)": 1.264,
+      "Equivalent price(USD)": 1.26,
+      "24H Change": "+0.72%",
+      "24H Volume(USDT)": "3.83M",
+      "AI annualized return": "+718.84%"
+    },
+    {
+      "Pair": "CKB/USDT",
+      "Price(USDT)": 0.024032,
+      "Equivalent price(USD)": 0.024,
+      "24H Change": "-3.92%",
+      "24H Volume(USDT)": "3.81M",
+      "AI annualized return": "+1170.31%"
+    },
+    {
+      "Pair": "AE/USDT",
+      "Price(USDT)": 0.3664,
+      "Equivalent price(USD)": 0.36,
+      "24H Change": "-6.72%",
+      "24H Volume(USDT)": "3.73M",
+      "AI annualized return": "+1500.68%"
+    },
+    {
+      "Pair": "MITH/USDT",
+      "Price(USDT)": 0.12496,
+      "Equivalent price(USD)": 0.12,
+      "24H Change": "-6.68%",
+      "24H Volume(USDT)": "3.72M",
+      "AI annualized return": "+1608.99%"
+    },
+    {
+      "Pair": "AKRO/USDT",
+      "Price(USDT)": 0.04984,
+      "Equivalent price(USD)": 0.049,
+      "24H Change": "+0.14%",
+      "24H Volume(USDT)": "3.69M",
+      "AI annualized return": "+450.00%"
+    },
+    {
+      "Pair": "BNT/USDT",
+      "Price(USDT)": 6.6541,
+      "Equivalent price(USD)": 6.65,
+      "24H Change": "+1.19%",
+      "24H Volume(USDT)": "3.67M",
+      "AI annualized return": "+166.66%"
+    },
+    {
+      "Pair": "BLZ3L/USDT",
+      "Price(USDT)": 2.016,
+      "Equivalent price(USD)": 2.01,
+      "24H Change": "+56.28%",
+      "24H Volume(USDT)": "3.63M",
+      "AI annualized return": "+1415.30%"
+    },
+    {
+      "Pair": "KAVA/USDT",
+      "Price(USDT)": 5.1221,
+      "Equivalent price(USD)": 5.12,
+      "24H Change": "+1.07%",
+      "24H Volume(USDT)": "3.62M",
+      "AI annualized return": "+388.67%"
+    },
+    {
+      "Pair": "HNT3L/USDT",
+      "Price(USDT)": 0.624,
+      "Equivalent price(USD)": 0.62,
+      "24H Change": "-9.04%",
+      "24H Volume(USDT)": "3.56M",
+      "AI annualized return": "+3275.46%"
+    },
+    {
+      "Pair": "KNC/USDT",
+      "Price(USDT)": 3.075,
+      "Equivalent price(USD)": 3.07,
+      "24H Change": "-1.00%",
+      "24H Volume(USDT)": "3.52M",
+      "AI annualized return": "+529.93%"
+    },
+    {
+      "Pair": "BCH1S/USDT",
+      "Price(USDT)": 5.207,
+      "Equivalent price(USD)": 5.2,
+      "24H Change": "+0.25%",
+      "24H Volume(USDT)": "3.5M",
+      "AI annualized return": "+432.27%"
+    },
+    {
+      "Pair": "GXC/USDT",
+      "Price(USDT)": 0.9175,
+      "Equivalent price(USD)": 0.91,
+      "24H Change": "+7.49%",
+      "24H Volume(USDT)": "3.49M",
+      "AI annualized return": "+687.36%"
+    },
+    {
+      "Pair": "FIL3L/USDT",
+      "Price(USDT)": 4.179,
+      "Equivalent price(USD)": 4.17,
+      "24H Change": "+14.37%",
+      "24H Volume(USDT)": "3.45M",
+      "AI annualized return": "+720.31%"
+    },
+    {
+      "Pair": "ENJ3S/USDT",
+      "Price(USDT)": 1.323,
+      "Equivalent price(USD)": 1.32,
+      "24H Change": "-9.07%",
+      "24H Volume(USDT)": "3.4M",
+      "AI annualized return": "+1358.03%"
+    },
+    {
+      "Pair": "DF/USDT",
+      "Price(USDT)": 0.3651,
+      "Equivalent price(USD)": 0.36,
+      "24H Change": "+10.27%",
+      "24H Volume(USDT)": "3.31M",
+      "AI annualized return": "+478.05%"
+    },
+    {
+      "Pair": "OGN/USDT",
+      "Price(USDT)": 1.7949,
+      "Equivalent price(USD)": 1.79,
+      "24H Change": "-1.47%",
+      "24H Volume(USDT)": "3.3M",
+      "AI annualized return": "+461.40%"
+    },
+    {
+      "Pair": "BLZ3S/USDT",
+      "Price(USDT)": 1.176,
+      "Equivalent price(USD)": 1.17,
+      "24H Change": "-42.24%",
+      "24H Volume(USDT)": "3.26M",
+      "AI annualized return": "+1018.20%"
+    },
+    {
+      "Pair": "ONT3S/USDT",
+      "Price(USDT)": 6.841,
+      "Equivalent price(USD)": 6.84,
+      "24H Change": "-5.77%",
+      "24H Volume(USDT)": "3.26M",
+      "AI annualized return": "+898.16%"
+    },
+    {
+      "Pair": "ETH1S/USDT",
+      "Price(USDT)": 2.131,
+      "Equivalent price(USD)": 2.13,
+      "24H Change": "-2.47%",
+      "24H Volume(USDT)": "3.25M",
+      "AI annualized return": "+309.26%"
+    },
+    {
+      "Pair": "ATOM3L/USDT",
+      "Price(USDT)": 5.347,
+      "Equivalent price(USD)": 5.34,
+      "24H Change": "-1.40%",
+      "24H Volume(USDT)": "3.22M",
+      "AI annualized return": "+1636.76%"
+    },
+    {
+      "Pair": "VALUE/USDT",
+      "Price(USDT)": 5.4437,
+      "Equivalent price(USD)": 5.44,
+      "24H Change": "+5.19%",
+      "24H Volume(USDT)": "3.16M",
+      "AI annualized return": "+605.45%"
+    },
+    {
+      "Pair": "FTM/USDT",
+      "Price(USDT)": 0.6045,
+      "Equivalent price(USD)": 0.6,
+      "24H Change": "-7.15%",
+      "24H Volume(USDT)": "3.08M",
+      "AI annualized return": "+2069.76%"
+    },
+    {
+      "Pair": "BLZ/USDT",
+      "Price(USDT)": 0.4328,
+      "Equivalent price(USD)": 0.43,
+      "24H Change": "+16.31%",
+      "24H Volume(USDT)": "3.08M",
+      "AI annualized return": "+484.61%"
+    },
+    {
+      "Pair": "REN/USDT",
+      "Price(USDT)": 0.843629,
+      "Equivalent price(USD)": 0.84,
+      "24H Change": "-0.54%",
+      "24H Volume(USDT)": "3.07M",
+      "AI annualized return": "+346.22%"
+    },
+    {
+      "Pair": "UNI3L/USDT",
+      "Price(USDT)": 13.317,
+      "Equivalent price(USD)": 13.31,
+      "24H Change": "-16.41%",
+      "24H Volume(USDT)": "3.05M",
+      "AI annualized return": "+2672.77%"
+    },
+    {
+      "Pair": "GT/USDT",
+      "Price(USDT)": 3.9222,
+      "Equivalent price(USD)": 3.92,
+      "24H Change": "+12.66%",
+      "24H Volume(USDT)": "3.01M",
+      "AI annualized return": "+225.58%"
+    },
+    {
+      "Pair": "STORJ3S/USDT",
+      "Price(USDT)": 5.928,
+      "Equivalent price(USD)": 5.92,
+      "24H Change": "+4.51%",
+      "24H Volume(USDT)": "2.94M",
+      "AI annualized return": "+878.83%"
+    },
+    {
+      "Pair": "EOS1S/USDT",
+      "Price(USDT)": 0.137,
+      "Equivalent price(USD)": 0.13,
+      "24H Change": "-3.52%",
+      "24H Volume(USDT)": "2.94M",
+      "AI annualized return": "+242.05%"
+    },
+    {
+      "Pair": "COS/USDT",
+      "Price(USDT)": 0.0319,
+      "Equivalent price(USD)": 0.031,
+      "24H Change": "+1.53%",
+      "24H Volume(USDT)": "2.92M",
+      "AI annualized return": "+421.51%"
+    },
+    {
+      "Pair": "BAT/USDT",
+      "Price(USDT)": 1.1904,
+      "Equivalent price(USD)": 1.19,
+      "24H Change": "+0.17%",
+      "24H Volume(USDT)": "2.91M",
+      "AI annualized return": "+365.06%"
+    },
+    {
+      "Pair": "KAVA3S/USDT",
+      "Price(USDT)": 3.37,
+      "Equivalent price(USD)": 3.37,
+      "24H Change": "-9.94%",
+      "24H Volume(USDT)": "2.88M",
+      "AI annualized return": "+1268.73%"
+    },
+    {
+      "Pair": "CELR/USDT",
+      "Price(USDT)": 0.0635,
+      "Equivalent price(USD)": 0.063,
+      "24H Change": "+1.29%",
+      "24H Volume(USDT)": "2.86M",
+      "AI annualized return": "+505.04%"
+    },
+    {
+      "Pair": "ATOM3S/USDT",
+      "Price(USDT)": 4.648,
+      "Equivalent price(USD)": 4.64,
+      "24H Change": "+1.57%",
+      "24H Volume(USDT)": "2.86M",
+      "AI annualized return": "+791.93%"
+    },
+    {
+      "Pair": "AUDIO/USDT",
+      "Price(USDT)": 2.18956,
+      "Equivalent price(USD)": 2.18,
+      "24H Change": "-1.50%",
+      "24H Volume(USDT)": "2.84M",
+      "AI annualized return": "+504.76%"
+    },
+    {
+      "Pair": "WAXP/USDT",
+      "Price(USDT)": 0.251904,
+      "Equivalent price(USD)": 0.25,
+      "24H Change": "+6.61%",
+      "24H Volume(USDT)": "2.82M",
+      "AI annualized return": "+603.54%"
+    },
+    {
+      "Pair": "DOGE1S/USDT",
+      "Price(USDT)": 8.441,
+      "Equivalent price(USD)": 8.44,
+      "24H Change": "+3.00%",
+      "24H Volume(USDT)": "2.78M",
+      "AI annualized return": "+353.26%"
+    },
+    {
+      "Pair": "FLM3S/USDT",
+      "Price(USDT)": 2.148,
+      "Equivalent price(USD)": 2.14,
+      "24H Change": "-8.52%",
+      "24H Volume(USDT)": "2.73M",
+      "AI annualized return": "+1010.58%"
+    },
+    {
+      "Pair": "NEW/USDT",
+      "Price(USDT)": 0.001126,
+      "Equivalent price(USD)": 0.0011,
+      "24H Change": "+0.45%",
+      "24H Volume(USDT)": "2.72M",
+      "AI annualized return": "+490.13%"
+    },
+    {
+      "Pair": "VET1S/USDT",
+      "Price(USDT)": 1.083,
+      "Equivalent price(USD)": 1.08,
+      "24H Change": "+2.46%",
+      "24H Volume(USDT)": "2.63M",
+      "AI annualized return": "+397.21%"
+    },
+    {
+      "Pair": "BNB3S/USDT",
+      "Price(USDT)": 2.458,
+      "Equivalent price(USD)": 2.45,
+      "24H Change": "-23.21%",
+      "24H Volume(USDT)": "2.61M",
+      "AI annualized return": "+880.96%"
+    },
+    {
+      "Pair": "SUSHI3L/USDT",
+      "Price(USDT)": 1.18,
+      "Equivalent price(USD)": 1.18,
+      "24H Change": "-6.05%",
+      "24H Volume(USDT)": "2.58M",
+      "AI annualized return": "+1154.65%"
+    },
+    {
+      "Pair": "RLC/USDT",
+      "Price(USDT)": 2.7499,
+      "Equivalent price(USD)": 2.74,
+      "24H Change": "+2.20%",
+      "24H Volume(USDT)": "2.58M",
+      "AI annualized return": "+1188.75%"
+    },
+    {
+      "Pair": "BAL/USDT",
+      "Price(USDT)": 58.615,
+      "Equivalent price(USD)": 58.61,
+      "24H Change": "+1.54%",
+      "24H Volume(USDT)": "2.57M",
+      "AI annualized return": "+305.06%"
+    },
+    {
+      "Pair": "ZIL3S/USDT",
+      "Price(USDT)": 2.102,
+      "Equivalent price(USD)": 2.1,
+      "24H Change": "-0.47%",
+      "24H Volume(USDT)": "2.56M",
+      "AI annualized return": "+1272.86%"
+    },
+    {
+      "Pair": "ATOM1S/USDT",
+      "Price(USDT)": 2.02,
+      "Equivalent price(USD)": 2.02,
+      "24H Change": "+0.50%",
+      "24H Volume(USDT)": "2.51M",
+      "AI annualized return": "+346.62%"
+    },
+    {
+      "Pair": "IOTA1S/USDT",
+      "Price(USDT)": 3.977,
+      "Equivalent price(USD)": 3.97,
+      "24H Change": "+3.14%",
+      "24H Volume(USDT)": "2.49M",
+      "AI annualized return": "+400.85%"
+    },
+    {
+      "Pair": "AVAX3S/USDT",
+      "Price(USDT)": 3.583,
+      "Equivalent price(USD)": 3.58,
+      "24H Change": "-5.59%",
+      "24H Volume(USDT)": "2.37M",
+      "AI annualized return": "+1128.10%"
+    },
+    {
+      "Pair": "LRC/USDT",
+      "Price(USDT)": 0.52778,
+      "Equivalent price(USD)": 0.52,
+      "24H Change": "+2.74%",
+      "24H Volume(USDT)": "2.27M",
+      "AI annualized return": "+257.53%"
+    },
+    {
+      "Pair": "AAVE3L/USDT",
+      "Price(USDT)": 1.413,
+      "Equivalent price(USD)": 1.41,
+      "24H Change": "-7.10%",
+      "24H Volume(USDT)": "2.26M",
+      "AI annualized return": "+1894.56%"
+    },
+    {
+      "Pair": "PAXG/USDT",
+      "Price(USDT)": 1782.88,
+      "Equivalent price(USD)": 1782.88,
+      "24H Change": "-0.95%",
+      "24H Volume(USDT)": "2.26M",
+      "AI annualized return": "+25.47%"
+    },
+    {
+      "Pair": "LTO/USDT",
+      "Price(USDT)": 0.51216,
+      "Equivalent price(USD)": 0.51,
+      "24H Change": "+2.54%",
+      "24H Volume(USDT)": "2.08M",
+      "AI annualized return": "+371.04%"
+    },
+    {
+      "Pair": "ELF/USDT",
+      "Price(USDT)": 0.4317,
+      "Equivalent price(USD)": 0.43,
+      "24H Change": "-2.42%",
+      "24H Volume(USDT)": "2.03M",
+      "AI annualized return": "+1545.87%"
+    },
+    {
+      "Pair": "BTS/USDT",
+      "Price(USDT)": 0.1092,
+      "Equivalent price(USD)": 0.1,
+      "24H Change": "-2.06%",
+      "24H Volume(USDT)": "2.03M",
+      "AI annualized return": "+387.57%"
+    },
+    {
+      "Pair": "WNXM/USDT",
+      "Price(USDT)": 88.0825,
+      "Equivalent price(USD)": 88.08,
+      "24H Change": "-5.17%",
+      "24H Volume(USDT)": "2.03M",
+      "AI annualized return": "+1419.85%"
+    },
+    {
+      "Pair": "KNC1S/USDT",
+      "Price(USDT)": 0.151,
+      "Equivalent price(USD)": 0.15,
+      "24H Change": "+1.34%",
+      "24H Volume(USDT)": "2.01M",
+      "AI annualized return": "+177.61%"
+    },
+    {
+      "Pair": "LAMB/USDT",
+      "Price(USDT)": 0.0798,
+      "Equivalent price(USD)": 0.079,
+      "24H Change": "-1.42%",
+      "24H Volume(USDT)": "2M",
+      "AI annualized return": "+1174.01%"
+    },
+    {
+      "Pair": "ZRX1S/USDT",
+      "Price(USDT)": 2.534,
+      "Equivalent price(USD)": 2.53,
+      "24H Change": "+0.68%",
+      "24H Volume(USDT)": "1.98M",
+      "AI annualized return": "+324.24%"
+    },
+    {
+      "Pair": "DOT3S/USDT",
+      "Price(USDT)": 0.624,
+      "Equivalent price(USD)": 0.62,
+      "24H Change": "-27.44%",
+      "24H Volume(USDT)": "1.91M",
+      "AI annualized return": "+913.40%"
+    },
+    {
+      "Pair": "ICX3L/USDT",
+      "Price(USDT)": 1.138,
+      "Equivalent price(USD)": 1.13,
+      "24H Change": "+10.06%",
+      "24H Volume(USDT)": "1.86M",
+      "AI annualized return": "+1236.27%"
+    },
+    {
+      "Pair": "AR/USDT",
+      "Price(USDT)": 30.0282,
+      "Equivalent price(USD)": 30.02,
+      "24H Change": "+4.76%",
+      "24H Volume(USDT)": "1.86M",
+      "AI annualized return": "+569.29%"
+    },
+    {
+      "Pair": "BAL3L/USDT",
+      "Price(USDT)": 0.677,
+      "Equivalent price(USD)": 0.67,
+      "24H Change": "+5.12%",
+      "24H Volume(USDT)": "1.8M",
+      "AI annualized return": "+1577.98%"
+    },
+    {
+      "Pair": "UMA/USDT",
+      "Price(USDT)": 24.906,
+      "Equivalent price(USD)": 24.9,
+      "24H Change": "+1.44%",
+      "24H Volume(USDT)": "1.8M",
+      "AI annualized return": "+304.90%"
+    },
+    {
+      "Pair": "NEXO/USDT",
+      "Price(USDT)": 3.5659,
+      "Equivalent price(USD)": 3.56,
+      "24H Change": "-0.52%",
+      "24H Volume(USDT)": "1.8M",
+      "AI annualized return": "+196.54%"
+    },
+    {
+      "Pair": "NEST/USDT",
+      "Price(USDT)": 0.0382,
+      "Equivalent price(USD)": 0.038,
+      "24H Change": "-2.30%",
+      "24H Volume(USDT)": "1.8M",
+      "AI annualized return": "+244.41%"
+    },
+    {
+      "Pair": "BIX/USDT",
+      "Price(USDT)": 0.197231,
+      "Equivalent price(USD)": 0.19,
+      "24H Change": "+20.02%",
+      "24H Volume(USDT)": "1.77M",
+      "AI annualized return": "+203.57%"
+    },
+    {
+      "Pair": "ZEC1S/USDT",
+      "Price(USDT)": 2.927,
+      "Equivalent price(USD)": 2.92,
+      "24H Change": "+3.21%",
+      "24H Volume(USDT)": "1.76M",
+      "AI annualized return": "+506.49%"
+    },
+    {
+      "Pair": "OXT/USDT",
+      "Price(USDT)": 0.6209,
+      "Equivalent price(USD)": 0.62,
+      "24H Change": "+1.95%",
+      "24H Volume(USDT)": "1.73M",
+      "AI annualized return": "+302.75%"
+    },
+    {
+      "Pair": "SUSHI3S/USDT",
+      "Price(USDT)": 0.86,
+      "Equivalent price(USD)": 0.86,
+      "24H Change": "+6.83%",
+      "24H Volume(USDT)": "1.71M",
+      "AI annualized return": "+955.12%"
+    },
+    {
+      "Pair": "AUCTION/USDT",
+      "Price(USDT)": 47.9155,
+      "Equivalent price(USD)": 47.91,
+      "24H Change": "+3.97%",
+      "24H Volume(USDT)": "1.69M",
+      "AI annualized return": "+572.05%"
+    },
+    {
+      "Pair": "ICX/USDT",
+      "Price(USDT)": 2.4402,
+      "Equivalent price(USD)": 2.44,
+      "24H Change": "+4.68%",
+      "24H Volume(USDT)": "1.66M",
+      "AI annualized return": "+628.53%"
+    },
+    {
+      "Pair": "STX/USDT",
+      "Price(USDT)": 2.0935,
+      "Equivalent price(USD)": 2.09,
+      "24H Change": "-3.49%",
+      "24H Volume(USDT)": "1.66M",
+      "AI annualized return": "+386.04%"
+    },
+    {
+      "Pair": "ARPA/USDT",
+      "Price(USDT)": 0.092319,
+      "Equivalent price(USD)": 0.092,
+      "24H Change": "+1.24%",
+      "24H Volume(USDT)": "1.64M",
+      "AI annualized return": "+312.32%"
+    },
+    {
+      "Pair": "BAT1S/USDT",
+      "Price(USDT)": 3.06,
+      "Equivalent price(USD)": 3.06,
+      "24H Change": "-0.26%",
+      "24H Volume(USDT)": "1.64M",
+      "AI annualized return": "+365.24%"
+    },
+    {
+      "Pair": "TRB3L/USDT",
+      "Price(USDT)": 0.914,
+      "Equivalent price(USD)": 0.91,
+      "24H Change": "+5.91%",
+      "24H Volume(USDT)": "1.62M",
+      "AI annualized return": "+2530.46%"
+    },
+    {
+      "Pair": "ZIL3L/USDT",
+      "Price(USDT)": 1.319,
+      "Equivalent price(USD)": 1.31,
+      "24H Change": "-3.16%",
+      "24H Volume(USDT)": "1.6M",
+      "AI annualized return": "+2113.18%"
+    },
+    {
+      "Pair": "CRE/USDT",
+      "Price(USDT)": 0.018019,
+      "Equivalent price(USD)": 0.018,
+      "24H Change": "-3.37%",
+      "24H Volume(USDT)": "1.58M",
+      "AI annualized return": "+844.84%"
+    },
+    {
+      "Pair": "SEELE/USDT",
+      "Price(USDT)": 0.010091,
+      "Equivalent price(USD)": 0.01,
+      "24H Change": "-0.56%",
+      "24H Volume(USDT)": "1.54M",
+      "AI annualized return": "+233.32%"
+    },
+    {
+      "Pair": "STORJ3L/USDT",
+      "Price(USDT)": 2.772,
+      "Equivalent price(USD)": 2.77,
+      "24H Change": "-5.87%",
+      "24H Volume(USDT)": "1.54M",
+      "AI annualized return": "+2547.86%"
+    },
+    {
+      "Pair": "LTC3L/USDT",
+      "Price(USDT)": 1.267,
+      "Equivalent price(USD)": 1.26,
+      "24H Change": "+3.18%",
+      "24H Volume(USDT)": "1.51M",
+      "AI annualized return": "+425.39%"
+    },
+    {
+      "Pair": "RING/USDT",
+      "Price(USDT)": 0.1423,
+      "Equivalent price(USD)": 0.14,
+      "24H Change": "+10.74%",
+      "24H Volume(USDT)": "1.46M",
+      "AI annualized return": "+304.78%"
+    },
+    {
+      "Pair": "BTC2S/USDT",
+      "Price(USDT)": 1.162,
+      "Equivalent price(USD)": 1.16,
+      "24H Change": "+2.47%",
+      "24H Volume(USDT)": "1.46M",
+      "AI annualized return": "+319.89%"
+    },
+    {
+      "Pair": "BTC3L/USDT",
+      "Price(USDT)": 13.127,
+      "Equivalent price(USD)": 13.12,
+      "24H Change": "-4.04%",
+      "24H Volume(USDT)": "1.44M",
+      "AI annualized return": "+292.20%"
+    },
+    {
+      "Pair": "YAM/USDT",
+      "Price(USDT)": 2.284,
+      "Equivalent price(USD)": 2.28,
+      "24H Change": "-0.56%",
+      "24H Volume(USDT)": "1.44M",
+      "AI annualized return": "+551.52%"
+    },
+    {
+      "Pair": "XRP3S/USDT",
+      "Price(USDT)": 0.204,
+      "Equivalent price(USD)": 0.2,
+      "24H Change": "-3.77%",
+      "24H Volume(USDT)": "1.42M",
+      "AI annualized return": "+947.43%"
+    },
+    {
+      "Pair": "KNC3S/USDT",
+      "Price(USDT)": 0.332,
+      "Equivalent price(USD)": 0.33,
+      "24H Change": "+2.79%",
+      "24H Volume(USDT)": "1.42M",
+      "AI annualized return": "+888.67%"
+    },
+    {
+      "Pair": "SXP3L/USDT",
+      "Price(USDT)": 2.721,
+      "Equivalent price(USD)": 2.72,
+      "24H Change": "-4.56%",
+      "24H Volume(USDT)": "1.39M",
+      "AI annualized return": "+2470.85%"
+    },
+    {
+      "Pair": "IRIS/USDT",
+      "Price(USDT)": 0.145,
+      "Equivalent price(USD)": 0.14,
+      "24H Change": "-2.36%",
+      "24H Volume(USDT)": "1.37M",
+      "AI annualized return": "+356.84%"
+    },
+    {
+      "Pair": "SXP1S/USDT",
+      "Price(USDT)": 1.314,
+      "Equivalent price(USD)": 1.31,
+      "24H Change": "-0.45%",
+      "24H Volume(USDT)": "1.37M",
+      "AI annualized return": "+394.03%"
+    },
+    {
+      "Pair": "SNT/USDT",
+      "Price(USDT)": 0.160489,
+      "Equivalent price(USD)": 0.16,
+      "24H Change": "-0.67%",
+      "24H Volume(USDT)": "1.34M",
+      "AI annualized return": "+461.47%"
+    },
+    {
+      "Pair": "MIR/USDT",
+      "Price(USDT)": 9.7271,
+      "Equivalent price(USD)": 9.72,
+      "24H Change": "+0.89%",
+      "24H Volume(USDT)": "1.34M",
+      "AI annualized return": "+324.90%"
+    },
+    {
+      "Pair": "FIS/USDT",
+      "Price(USDT)": 2.4116,
+      "Equivalent price(USD)": 2.41,
+      "24H Change": "+7.97%",
+      "24H Volume(USDT)": "1.32M",
+      "AI annualized return": "+1142.82%"
+    },
+    {
+      "Pair": "BAL3S/USDT",
+      "Price(USDT)": 0.507,
+      "Equivalent price(USD)": 0.5,
+      "24H Change": "-4.70%",
+      "24H Volume(USDT)": "1.3M",
+      "AI annualized return": "+715.59%"
+    },
+    {
+      "Pair": "ZEC3L/USDT",
+      "Price(USDT)": 6.065,
+      "Equivalent price(USD)": 6.06,
+      "24H Change": "-5.84%",
+      "24H Volume(USDT)": "1.25M",
+      "AI annualized return": "+661.31%"
+    },
+    {
+      "Pair": "BCHA/USDT",
+      "Price(USDT)": 33.6217,
+      "Equivalent price(USD)": 33.62,
+      "24H Change": "+0.59%",
+      "24H Volume(USDT)": "1.24M",
+      "AI annualized return": "+348.81%"
+    },
+    {
+      "Pair": "DAI/USDT",
+      "Price(USDT)": 1.0001,
+      "Equivalent price(USD)": 1,
+      "24H Change": "-0.08%",
+      "24H Volume(USDT)": "1.23M",
+      "AI annualized return": "--"
+    },
+    {
+      "Pair": "TOMO/USDT",
+      "Price(USDT)": 2.4323,
+      "Equivalent price(USD)": 2.43,
+      "24H Change": "+10.37%",
+      "24H Volume(USDT)": "1.23M",
+      "AI annualized return": "+316.91%"
+    },
+    {
+      "Pair": "LOOM/USDT",
+      "Price(USDT)": 0.150539,
+      "Equivalent price(USD)": 0.15,
+      "24H Change": "+4.68%",
+      "24H Volume(USDT)": "1.21M",
+      "AI annualized return": "+623.15%"
+    },
+    {
+      "Pair": "RLC3S/USDT",
+      "Price(USDT)": 4.474,
+      "Equivalent price(USD)": 4.47,
+      "24H Change": "-7.66%",
+      "24H Volume(USDT)": "1.2M",
+      "AI annualized return": "+4806.33%"
+    },
+    {
+      "Pair": "YFI3S/USDT",
+      "Price(USDT)": 1.236,
+      "Equivalent price(USD)": 1.23,
+      "24H Change": "+3.60%",
+      "24H Volume(USDT)": "1.19M",
+      "AI annualized return": "+1058.81%"
+    },
+    {
+      "Pair": "RVN/USDT",
+      "Price(USDT)": 0.16276,
+      "Equivalent price(USD)": 0.16,
+      "24H Change": "-1.44%",
+      "24H Volume(USDT)": "1.19M",
+      "AI annualized return": "+332.44%"
+    },
+    {
+      "Pair": "CVC/USDT",
+      "Price(USDT)": 0.5011,
+      "Equivalent price(USD)": 0.5,
+      "24H Change": "-1.28%",
+      "24H Volume(USDT)": "1.17M",
+      "AI annualized return": "+381.91%"
+    },
+    {
+      "Pair": "DOGE3S/USDT",
+      "Price(USDT)": 5.318,
+      "Equivalent price(USD)": 5.31,
+      "24H Change": "+8.84%",
+      "24H Volume(USDT)": "1.12M",
+      "AI annualized return": "+738.01%"
+    },
+    {
+      "Pair": "NULS/USDT",
+      "Price(USDT)": 1.0752,
+      "Equivalent price(USD)": 1.07,
+      "24H Change": "+3.48%",
+      "24H Volume(USDT)": "1.06M",
+      "AI annualized return": "+308.49%"
+    },
+    {
+      "Pair": "ZEC3S/USDT",
+      "Price(USDT)": 5.099,
+      "Equivalent price(USD)": 5.09,
+      "24H Change": "+6.99%",
+      "24H Volume(USDT)": "1.03M",
+      "AI annualized return": "+1102.85%"
+    },
+    {
+      "Pair": "GRT3L/USDT",
+      "Price(USDT)": 2.921,
+      "Equivalent price(USD)": 2.92,
+      "24H Change": "+4.36%",
+      "24H Volume(USDT)": "1.01M",
+      "AI annualized return": "+1284.07%"
+    },
+    {
+      "Pair": "MASS/USDT",
+      "Price(USDT)": 0.8783,
+      "Equivalent price(USD)": 0.87,
+      "24H Change": "+2.37%",
+      "24H Volume(USDT)": "1.01M",
+      "AI annualized return": "+282.92%"
+    },
+    {
+      "Pair": "LTC3S/USDT",
+      "Price(USDT)": 0.778,
+      "Equivalent price(USD)": 0.77,
+      "24H Change": "-4.89%",
+      "24H Volume(USDT)": "1M",
+      "AI annualized return": "+1083.27%"
+    },
+    {
+      "Pair": "MKR3L/USDT",
+      "Price(USDT)": 2.931,
+      "Equivalent price(USD)": 2.93,
+      "24H Change": "-4.62%",
+      "24H Volume(USDT)": "993.21K",
+      "AI annualized return": "+964.62%"
+    },
+    {
+      "Pair": "BTC2L/USDT",
+      "Price(USDT)": 0.787,
+      "Equivalent price(USD)": 0.78,
+      "24H Change": "-3.55%",
+      "24H Volume(USDT)": "941.22K",
+      "AI annualized return": "+231.62%"
+    },
+    {
+      "Pair": "CTXC/USDT",
+      "Price(USDT)": 0.3222,
+      "Equivalent price(USD)": 0.32,
+      "24H Change": "+5.09%",
+      "24H Volume(USDT)": "929.13K",
+      "AI annualized return": "+469.31%"
+    },
+    {
+      "Pair": "ADA3S/USDT",
+      "Price(USDT)": 0.768,
+      "Equivalent price(USD)": 0.76,
+      "24H Change": "-8.79%",
+      "24H Volume(USDT)": "916.16K",
+      "AI annualized return": "+615.93%"
+    },
+    {
+      "Pair": "ICX3S/USDT",
+      "Price(USDT)": 0.421,
+      "Equivalent price(USD)": 0.42,
+      "24H Change": "-16.63%",
+      "24H Volume(USDT)": "904.88K",
+      "AI annualized return": "+1144.12%"
+    },
+    {
+      "Pair": "EGLD3L/USDT",
+      "Price(USDT)": 0.732,
+      "Equivalent price(USD)": 0.73,
+      "24H Change": "-3.94%",
+      "24H Volume(USDT)": "885.39K",
+      "AI annualized return": "+2261.32%"
+    },
+    {
+      "Pair": "FIL3S/USDT",
+      "Price(USDT)": 1.334,
+      "Equivalent price(USD)": 1.33,
+      "24H Change": "-15.19%",
+      "24H Volume(USDT)": "881.42K",
+      "AI annualized return": "+478.58%"
+    },
+    {
+      "Pair": "STEEM/USDT",
+      "Price(USDT)": 0.8365,
+      "Equivalent price(USD)": 0.83,
+      "24H Change": "-2.16%",
+      "24H Volume(USDT)": "879.05K",
+      "AI annualized return": "+610.83%"
+    },
+    {
+      "Pair": "IOTA3S/USDT",
+      "Price(USDT)": 2.116,
+      "Equivalent price(USD)": 2.11,
+      "24H Change": "+8.24%",
+      "24H Volume(USDT)": "874.05K",
+      "AI annualized return": "+1052.68%"
+    },
+    {
+      "Pair": "NODE/USDT",
+      "Price(USDT)": 0.001217,
+      "Equivalent price(USD)": 0.0012,
+      "24H Change": "+1.08%",
+      "24H Volume(USDT)": "872.21K",
+      "AI annualized return": "+1151.67%"
+    },
+    {
+      "Pair": "QTUM3L/USDT",
+      "Price(USDT)": 0.625,
+      "Equivalent price(USD)": 0.62,
+      "24H Change": "+1.30%",
+      "24H Volume(USDT)": "827.53K",
+      "AI annualized return": "+1306.99%"
+    },
+    {
+      "Pair": "MBTC/USDT",
+      "Price(USDT)": 53.577,
+      "Equivalent price(USD)": 53.57,
+      "24H Change": "-1.44%",
+      "24H Volume(USDT)": "798.54K",
+      "AI annualized return": "+115.35%"
+    },
+    {
+      "Pair": "BZRX3L/USDT",
+      "Price(USDT)": 0.778,
+      "Equivalent price(USD)": 0.77,
+      "24H Change": "+40.18%",
+      "24H Volume(USDT)": "746.47K",
+      "AI annualized return": "+3511.47%"
+    },
+    {
+      "Pair": "NEO3S/USDT",
+      "Price(USDT)": 2.282,
+      "Equivalent price(USD)": 2.28,
+      "24H Change": "+4.11%",
+      "24H Volume(USDT)": "684.32K",
+      "AI annualized return": "+1252.11%"
+    },
+    {
+      "Pair": "YFI3L/USDT",
+      "Price(USDT)": 0.657,
+      "Equivalent price(USD)": 0.65,
+      "24H Change": "-3.95%",
+      "24H Volume(USDT)": "666.08K",
+      "AI annualized return": "+805.67%"
+    },
+    {
+      "Pair": "IOST3L/USDT",
+      "Price(USDT)": 0.662,
+      "Equivalent price(USD)": 0.66,
+      "24H Change": "-3.92%",
+      "24H Volume(USDT)": "663.07K",
+      "AI annualized return": "+3295.55%"
+    },
+    {
+      "Pair": "SNX3L/USDT",
+      "Price(USDT)": 17.508,
+      "Equivalent price(USD)": 17.5,
+      "24H Change": "+15.07%",
+      "24H Volume(USDT)": "643.16K",
+      "AI annualized return": "+4249.61%"
+    },
+    {
+      "Pair": "BTC3S/USDT",
+      "Price(USDT)": 0.913,
+      "Equivalent price(USD)": 0.91,
+      "24H Change": "+5.55%",
+      "24H Volume(USDT)": "634.81K",
+      "AI annualized return": "+558.19%"
+    },
+    {
+      "Pair": "FLM3L/USDT",
+      "Price(USDT)": 0.469,
+      "Equivalent price(USD)": 0.46,
+      "24H Change": "+8.82%",
+      "24H Volume(USDT)": "551.6K",
+      "AI annualized return": "+1128.43%"
+    },
+    {
+      "Pair": "QTUM3S/USDT",
+      "Price(USDT)": 0.408,
+      "Equivalent price(USD)": 0.4,
+      "24H Change": "-1.45%",
+      "24H Volume(USDT)": "550.94K",
+      "AI annualized return": "+1096.32%"
+    },
+    {
+      "Pair": "DCR/USDT",
+      "Price(USDT)": 206.578,
+      "Equivalent price(USD)": 206.57,
+      "24H Change": "-1.09%",
+      "24H Volume(USDT)": "546.24K",
+      "AI annualized return": "+175.30%"
+    },
+    {
+      "Pair": "BNB1S/USDT",
+      "Price(USDT)": 0.372,
+      "Equivalent price(USD)": 0.37,
+      "24H Change": "-6.77%",
+      "24H Volume(USDT)": "519.35K",
+      "AI annualized return": "+225.22%"
+    },
+    {
+      "Pair": "LINK3S/USDT",
+      "Price(USDT)": 0.601,
+      "Equivalent price(USD)": 0.6,
+      "24H Change": "-7.11%",
+      "24H Volume(USDT)": "507.79K",
+      "AI annualized return": "--"
+    },
+    {
+      "Pair": "ONT3L/USDT",
+      "Price(USDT)": 1.022,
+      "Equivalent price(USD)": 1.02,
+      "24H Change": "+6.46%",
+      "24H Volume(USDT)": "499.02K",
+      "AI annualized return": "+938.29%"
+    },
+    {
+      "Pair": "XLM3S/USDT",
+      "Price(USDT)": 0.293,
+      "Equivalent price(USD)": 0.29,
+      "24H Change": "+1.38%",
+      "24H Volume(USDT)": "491.62K",
+      "AI annualized return": "+750.39%"
+    },
+    {
+      "Pair": "IOST3S/USDT",
+      "Price(USDT)": 0.511,
+      "Equivalent price(USD)": 0.51,
+      "24H Change": "+3.23%",
+      "24H Volume(USDT)": "488.46K",
+      "AI annualized return": "+831.94%"
+    },
+    {
+      "Pair": "KAVA3L/USDT",
+      "Price(USDT)": 0.568,
+      "Equivalent price(USD)": 0.56,
+      "24H Change": "+3.09%",
+      "24H Volume(USDT)": "488.08K",
+      "AI annualized return": "+1915.97%"
+    },
+    {
+      "Pair": "HYDRO/USDT",
+      "Price(USDT)": 0.020612,
+      "Equivalent price(USD)": 0.02,
+      "24H Change": "-0.43%",
+      "24H Volume(USDT)": "484.27K",
+      "AI annualized return": "+443.79%"
+    },
+    {
+      "Pair": "ALGO3S/USDT",
+      "Price(USDT)": 0.675,
+      "Equivalent price(USD)": 0.67,
+      "24H Change": "-20.49%",
+      "24H Volume(USDT)": "482.53K",
+      "AI annualized return": "+921.37%"
+    },
+    {
+      "Pair": "BOR/USDT",
+      "Price(USDT)": 668.22,
+      "Equivalent price(USD)": 668.22,
+      "24H Change": "-4.39%",
+      "24H Volume(USDT)": "470.72K",
+      "AI annualized return": "+247.96%"
+    },
+    {
+      "Pair": "XMR3L/USDT",
+      "Price(USDT)": 3.213,
+      "Equivalent price(USD)": 3.21,
+      "24H Change": "-9.75%",
+      "24H Volume(USDT)": "469.73K",
+      "AI annualized return": "+2480.09%"
+    },
+    {
+      "Pair": "LINK3L/USDT",
+      "Price(USDT)": 0.492,
+      "Equivalent price(USD)": 0.49,
+      "24H Change": "+4.90%",
+      "24H Volume(USDT)": "444.35K",
+      "AI annualized return": "+872.99%"
+    },
+    {
+      "Pair": "NEAR3S/USDT",
+      "Price(USDT)": 0.283,
+      "Equivalent price(USD)": 0.28,
+      "24H Change": "-29.25%",
+      "24H Volume(USDT)": "438.87K",
+      "AI annualized return": "+1052.18%"
+    },
+    {
+      "Pair": "CRV3L/USDT",
+      "Price(USDT)": 0.24,
+      "Equivalent price(USD)": 0.24,
+      "24H Change": "+6.67%",
+      "24H Volume(USDT)": "437.61K",
+      "AI annualized return": "+1024.97%"
+    },
+    {
+      "Pair": "MTA/USDT",
+      "Price(USDT)": 2.6586,
+      "Equivalent price(USD)": 2.65,
+      "24H Change": "-2.94%",
+      "24H Volume(USDT)": "428.61K",
+      "AI annualized return": "+252.12%"
+    },
+    {
+      "Pair": "ETH3S/USDT",
+      "Price(USDT)": 0.37,
+      "Equivalent price(USD)": 0.37,
+      "24H Change": "-4.15%",
+      "24H Volume(USDT)": "406.24K",
+      "AI annualized return": "+634.16%"
+    },
+    {
+      "Pair": "ALGO3L/USDT",
+      "Price(USDT)": 0.663,
+      "Equivalent price(USD)": 0.66,
+      "24H Change": "+17.35%",
+      "24H Volume(USDT)": "403.31K",
+      "AI annualized return": "+1852.99%"
+    },
+    {
+      "Pair": "FIRO/USDT",
+      "Price(USDT)": 10.4981,
+      "Equivalent price(USD)": 10.49,
+      "24H Change": "-2.06%",
+      "24H Volume(USDT)": "395.6K",
+      "AI annualized return": "+332.35%"
+    },
+    {
+      "Pair": "DEFI3L/USDT",
+      "Price(USDT)": 1.183,
+      "Equivalent price(USD)": 1.18,
+      "24H Change": "+2.42%",
+      "24H Volume(USDT)": "387.03K",
+      "AI annualized return": "+760.30%"
+    },
+    {
+      "Pair": "OMG3L/USDT",
+      "Price(USDT)": 0.666,
+      "Equivalent price(USD)": 0.66,
+      "24H Change": "-1.04%",
+      "24H Volume(USDT)": "355.9K",
+      "AI annualized return": "+1151.35%"
+    },
+    {
+      "Pair": "UTK/USDT",
+      "Price(USDT)": 0.488,
+      "Equivalent price(USD)": 0.48,
+      "24H Change": "-1.89%",
+      "24H Volume(USDT)": "349.34K",
+      "AI annualized return": "+977.88%"
+    },
+    {
+      "Pair": "SOL3S/USDT",
+      "Price(USDT)": 0.52,
+      "Equivalent price(USD)": 0.52,
+      "24H Change": "+9.94%",
+      "24H Volume(USDT)": "344.01K",
+      "AI annualized return": "+1092.41%"
+    },
+    {
+      "Pair": "VIDY/USDT",
+      "Price(USDT)": 0.004719,
+      "Equivalent price(USD)": 0.0047,
+      "24H Change": "-0.46%",
+      "24H Volume(USDT)": "339.06K",
+      "AI annualized return": "+490.93%"
+    },
+    {
+      "Pair": "SNX1S/USDT",
+      "Price(USDT)": 2.796,
+      "Equivalent price(USD)": 2.79,
+      "24H Change": "-7.42%",
+      "24H Volume(USDT)": "338.64K",
+      "AI annualized return": "+379.93%"
+    },
+    {
+      "Pair": "SXP3S/USDT",
+      "Price(USDT)": 0.853,
+      "Equivalent price(USD)": 0.85,
+      "24H Change": "+5.31%",
+      "24H Volume(USDT)": "330.11K",
+      "AI annualized return": "+1240.18%"
+    },
+    {
+      "Pair": "GRT3S/USDT",
+      "Price(USDT)": 0.865,
+      "Equivalent price(USD)": 0.86,
+      "24H Change": "-3.78%",
+      "24H Volume(USDT)": "298.39K",
+      "AI annualized return": "+1150.00%"
+    },
+    {
+      "Pair": "COMP3L/USDT",
+      "Price(USDT)": 2.022,
+      "Equivalent price(USD)": 2.02,
+      "24H Change": "+6.42%",
+      "24H Volume(USDT)": "297.86K",
+      "AI annualized return": "+3018.80%"
+    },
+    {
+      "Pair": "IOST1S/USDT",
+      "Price(USDT)": 0.497,
+      "Equivalent price(USD)": 0.49,
+      "24H Change": "+1.43%",
+      "24H Volume(USDT)": "277.24K",
+      "AI annualized return": "+293.38%"
+    },
+    {
+      "Pair": "AST/USDT",
+      "Price(USDT)": 0.3925,
+      "Equivalent price(USD)": 0.39,
+      "24H Change": "+3.24%",
+      "24H Volume(USDT)": "274.79K",
+      "AI annualized return": "+407.54%"
+    },
+    {
+      "Pair": "IOTA3L/USDT",
+      "Price(USDT)": 0.458,
+      "Equivalent price(USD)": 0.45,
+      "24H Change": "-7.85%",
+      "24H Volume(USDT)": "253.21K",
+      "AI annualized return": "+1804.24%"
+    },
+    {
+      "Pair": "ETC3L/USDT",
+      "Price(USDT)": 0.454,
+      "Equivalent price(USD)": 0.45,
+      "24H Change": "-1.94%",
+      "24H Volume(USDT)": "250.64K",
+      "AI annualized return": "+791.03%"
+    },
+    {
+      "Pair": "SKM/USDT",
+      "Price(USDT)": 0.005653,
+      "Equivalent price(USD)": 0.0056,
+      "24H Change": "-0.77%",
+      "24H Volume(USDT)": "249.14K",
+      "AI annualized return": "+869.27%"
+    },
+    {
+      "Pair": "MKR3S/USDT",
+      "Price(USDT)": 1.108,
+      "Equivalent price(USD)": 1.1,
+      "24H Change": "+3.17%",
+      "24H Volume(USDT)": "236.4K",
+      "AI annualized return": "+917.16%"
+    },
+    {
+      "Pair": "DASH3L/USDT",
+      "Price(USDT)": 0.545,
+      "Equivalent price(USD)": 0.54,
+      "24H Change": "+12.60%",
+      "24H Volume(USDT)": "208.77K",
+      "AI annualized return": "+695.16%"
+    },
+    {
+      "Pair": "UNI3S/USDT",
+      "Price(USDT)": 1.066,
+      "Equivalent price(USD)": 1.06,
+      "24H Change": "+21.14%",
+      "24H Volume(USDT)": "200.6K",
+      "AI annualized return": "+750.25%"
+    },
+    {
+      "Pair": "BAND1S/USDT",
+      "Price(USDT)": 1.602,
+      "Equivalent price(USD)": 1.6,
+      "24H Change": "+2.96%",
+      "24H Volume(USDT)": "191.24K",
+      "AI annualized return": "+413.82%"
+    },
+    {
+      "Pair": "BCH3L/USDT",
+      "Price(USDT)": 0.665,
+      "Equivalent price(USD)": 0.66,
+      "24H Change": "-1.04%",
+      "24H Volume(USDT)": "180.41K",
+      "AI annualized return": "+550.12%"
+    },
+    {
+      "Pair": "PAX/USDT",
+      "Price(USDT)": 0.9997,
+      "Equivalent price(USD)": 0.99,
+      "24H Change": "+0.06%",
+      "24H Volume(USDT)": "176.39K",
+      "AI annualized return": "+46.48%"
+    },
+    {
+      "Pair": "BZRX3S/USDT",
+      "Price(USDT)": 0.132,
+      "Equivalent price(USD)": 0.13,
+      "24H Change": "-38.32%",
+      "24H Volume(USDT)": "176.34K",
+      "AI annualized return": "+890.33%"
+    },
+    {
+      "Pair": "DEFI3S/USDT",
+      "Price(USDT)": 0.492,
+      "Equivalent price(USD)": 0.49,
+      "24H Change": "-9.06%",
+      "24H Volume(USDT)": "172.64K",
+      "AI annualized return": "+636.50%"
+    },
+    {
+      "Pair": "AAVE3S/USDT",
+      "Price(USDT)": 0.117,
+      "Equivalent price(USD)": 0.11,
+      "24H Change": "+5.41%",
+      "24H Volume(USDT)": "172.5K",
+      "AI annualized return": "+619.80%"
+    },
+    {
+      "Pair": "GLM/USDT",
+      "Price(USDT)": 0.438,
+      "Equivalent price(USD)": 0.43,
+      "24H Change": "-0.39%",
+      "24H Volume(USDT)": "145.98K",
+      "AI annualized return": "+588.25%"
+    },
+    {
+      "Pair": "XTZ3S/USDT",
+      "Price(USDT)": 1.126,
+      "Equivalent price(USD)": 1.12,
+      "24H Change": "-2.51%",
+      "24H Volume(USDT)": "144.83K",
+      "AI annualized return": "+1065.35%"
+    },
+    {
+      "Pair": "NEO3L/USDT",
+      "Price(USDT)": 0.416,
+      "Equivalent price(USD)": 0.41,
+      "24H Change": "-3.48%",
+      "24H Volume(USDT)": "144.57K",
+      "AI annualized return": "+1084.60%"
+    },
+    {
+      "Pair": "CRV3S/USDT",
+      "Price(USDT)": 0.167,
+      "Equivalent price(USD)": 0.16,
+      "24H Change": "-6.18%",
+      "24H Volume(USDT)": "143.86K",
+      "AI annualized return": "+1197.83%"
+    },
+    {
+      "Pair": "ZRX3L/USDT",
+      "Price(USDT)": 0.383,
+      "Equivalent price(USD)": 0.38,
+      "24H Change": "-1.54%",
+      "24H Volume(USDT)": "137.94K",
+      "AI annualized return": "+1936.82%"
+    },
+    {
+      "Pair": "RLC3L/USDT",
+      "Price(USDT)": 0.299,
+      "Equivalent price(USD)": 0.29,
+      "24H Change": "+6.03%",
+      "24H Volume(USDT)": "131.12K",
+      "AI annualized return": "+2153.47%"
+    },
+    {
+      "Pair": "RUNE3S/USDT",
+      "Price(USDT)": 0.37,
+      "Equivalent price(USD)": 0.37,
+      "24H Change": "-7.73%",
+      "24H Volume(USDT)": "119.4K",
+      "AI annualized return": "+1339.09%"
+    },
+    {
+      "Pair": "WAVES3S/USDT",
+      "Price(USDT)": 0.457,
+      "Equivalent price(USD)": 0.45,
+      "24H Change": "-48.82%",
+      "24H Volume(USDT)": "107.97K",
+      "AI annualized return": "+581.04%"
+    },
+    {
+      "Pair": "OMG3S/USDT",
+      "Price(USDT)": 0.198,
+      "Equivalent price(USD)": 0.19,
+      "24H Change": "+1.02%",
+      "24H Volume(USDT)": "105.67K",
+      "AI annualized return": "+892.42%"
+    },
+    {
+      "Pair": "THETA3S/USDT",
+      "Price(USDT)": 0.936,
+      "Equivalent price(USD)": 0.93,
+      "24H Change": "+6.61%",
+      "24H Volume(USDT)": "98.55K",
+      "AI annualized return": "+1272.77%"
+    },
+    {
+      "Pair": "DASH3S/USDT",
+      "Price(USDT)": 0.177,
+      "Equivalent price(USD)": 0.17,
+      "24H Change": "-14.90%",
+      "24H Volume(USDT)": "83.91K",
+      "AI annualized return": "+880.14%"
+    },
+    {
+      "Pair": "BAND3L/USDT",
+      "Price(USDT)": 0.531,
+      "Equivalent price(USD)": 0.53,
+      "24H Change": "-8.13%",
+      "24H Volume(USDT)": "79.38K",
+      "AI annualized return": "+1568.52%"
+    },
+    {
+      "Pair": "XMR3S/USDT",
+      "Price(USDT)": 0.425,
+      "Equivalent price(USD)": 0.42,
+      "24H Change": "+10.10%",
+      "24H Volume(USDT)": "54.9K",
+      "AI annualized return": "+695.67%"
+    },
+    {
+      "Pair": "XTZ3L/USDT",
+      "Price(USDT)": 0.375,
+      "Equivalent price(USD)": 0.37,
+      "24H Change": "+2.74%",
+      "24H Volume(USDT)": "54.07K",
+      "AI annualized return": "+653.05%"
+    },
+    {
+      "Pair": "RLC1S/USDT",
+      "Price(USDT)": 0.13,
+      "Equivalent price(USD)": 0.13,
+      "24H Change": "-2.26%",
+      "24H Volume(USDT)": "51.1K",
+      "AI annualized return": "+178.50%"
+    },
+    {
+      "Pair": "XMR1S/USDT",
+      "Price(USDT)": 0.123,
+      "Equivalent price(USD)": 0.12,
+      "24H Change": "+3.36%",
+      "24H Volume(USDT)": "45.25K",
+      "AI annualized return": "+139.89%"
+    },
+    {
+      "Pair": "BCH3S/USDT",
+      "Price(USDT)": 0.159,
+      "Equivalent price(USD)": 0.15,
+      "24H Change": "+1.27%",
+      "24H Volume(USDT)": "45.14K",
+      "AI annualized return": "+1047.26%"
+    },
+    {
+      "Pair": "COMP3S/USDT",
+      "Price(USDT)": 0.326,
+      "Equivalent price(USD)": 0.32,
+      "24H Change": "-4.96%",
+      "24H Volume(USDT)": "43.18K",
+      "AI annualized return": "+497.44%"
+    },
+    {
+      "Pair": "ZRX3S/USDT",
+      "Price(USDT)": 0.141,
+      "Equivalent price(USD)": 0.14,
+      "24H Change": "+2.17%",
+      "24H Volume(USDT)": "39.09K",
+      "AI annualized return": "+686.50%"
+    },
+    {
+      "Pair": "XTZ1S/USDT",
+      "Price(USDT)": 0.232,
+      "Equivalent price(USD)": 0.23,
+      "24H Change": "-0.85%",
+      "24H Volume(USDT)": "35.67K",
+      "AI annualized return": "+294.95%"
+    },
+    {
+      "Pair": "THETA1S/USDT",
+      "Price(USDT)": 0.224,
+      "Equivalent price(USD)": 0.22,
+      "24H Change": "+1.82%",
+      "24H Volume(USDT)": "33.57K",
+      "AI annualized return": "+282.69%"
+    },
+    {
+      "Pair": "SNX3S/USDT",
+      "Price(USDT)": 0.602,
+      "Equivalent price(USD)": 0.6,
+      "24H Change": "-15.09%",
+      "24H Volume(USDT)": "27.28K",
+      "AI annualized return": "+916.45%"
+    },
+    {
+      "Pair": "BAND3S/USDT",
+      "Price(USDT)": 0.504,
+      "Equivalent price(USD)": 0.5,
+      "24H Change": "+7.69%",
+      "24H Volume(USDT)": "21.7K",
+      "AI annualized return": "+1400.00%"
+    },
+    {
+      "Pair": "BTC1S/USDT",
+      "Price(USDT)": 0.119,
+      "Equivalent price(USD)": 0.11,
+      "24H Change": "+0.85%",
+      "24H Volume(USDT)": "19.86K",
+      "AI annualized return": "+37.17%"
+    }
+  ]

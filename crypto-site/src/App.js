@@ -1,9 +1,17 @@
 import "./App.css";
 import "antd/dist/antd.css";
-
 import { Route, Link } from "react-router-dom";
 import { Layout, Menu } from "antd";
+
+import Market from './Components/Market/Market'
+
 const { Header, Content, Footer } = Layout;
+
+const dataMarket = require('./data/testData.json');
+for(let index = 0; index < dataMarket.length; index++){
+  dataMarket[index]['key']=index;
+}
+
 
 function App() {
   return (
@@ -22,7 +30,7 @@ function App() {
         style={{ padding: "0 50px", marginTop: 10 }}
       >
         <Route path="/market">
-          <div className="site-layout-content">Market</div>
+          <div className="site-layout-content"><Market data={dataMarket}/></div>
         </Route>
         <Route path="/news">
           <div className="site-layout-content">News</div>
