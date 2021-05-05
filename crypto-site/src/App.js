@@ -3,7 +3,8 @@ import "antd/dist/antd.css";
 import { Route, Link } from "react-router-dom";
 import { Layout, Menu } from "antd";
 
-import Market from './Components/Market/Market'
+import Market from './Components/Market/Market';
+import News from './Components/News/News'
 
 const { Header, Content, Footer } = Layout;
 
@@ -33,7 +34,7 @@ function App() {
           <div className="site-layout-content"><Market data={dataMarket}/></div>
         </Route>
         <Route path="/news">
-          <div className="site-layout-content">News</div>
+          <div className="site-layout-content"><News/></div>
         </Route>
       </Content>
       <Footer style={{ textAlign: "center" }}>
