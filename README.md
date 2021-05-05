@@ -1,3 +1,3 @@
 # CryptoSite
 
-https://festive-goldstine-af6524.netlify.app/market
+https://festive-goldstine-af6524.netlify.app
