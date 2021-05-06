@@ -13,6 +13,12 @@ for(let index = 0; index < dataMarket.length; index++){
   dataMarket[index]['key']=index;
 }
 
+const dataNews = require('./data/newsTestData.json');
+for(let index = 0; index < dataNews.length; index++){
+  dataNews[index]['key']=index;
+}
+
+
 
 function App() {
   return (
@@ -34,7 +40,7 @@ function App() {
           <div className="site-layout-content"><Market data={dataMarket}/></div>
         </Route>
         <Route path="/news">
-          <div className="site-layout-content"><News/></div>
+          <div className="site-layout-content"><News data={dataNews}/></div>
         </Route>
       </Content>
       <Footer style={{ textAlign: "center" }}>

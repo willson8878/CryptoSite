@@ -15,7 +15,6 @@ const Market = (props) => {
     
     return(
         <Table dataSource={props.data} columns={getCol()} />
-        // <div>{getCol()}</div>
     )
 
 
