@@ -3,7 +3,7 @@ import styles from './NewsBar.module.css';
 
 const NewsBar = (props) => {
   return (
-    <Row>
+    <Row  key={props.key}>
       <Col span={4}>
         <Image src={props.picture} />
       </Col>
