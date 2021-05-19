@@ -20,6 +20,8 @@ for(let index = 0; index < dataNews.length; index++){
 
 
 
+
+
 function App() {
   return (
     <Layout>
@@ -37,7 +39,7 @@ function App() {
         style={{ padding: "0 50px", marginTop: 10 }}
       >
         <Route path="/market">
-          <div className="site-layout-content"><Market data={dataMarket}/></div>
+          <div className="site-layout-content"><Market data={dataMarket} /></div>
         </Route>
         <Route path="/news">
           <div className="site-layout-content"><News data={dataNews}/></div>
