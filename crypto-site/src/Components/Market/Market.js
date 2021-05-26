@@ -1,8 +1,19 @@
 import { useState, useEffect } from "react";
 import MarketData from "../../Services/MarketData";
-import { Table, Image,Statistic } from "antd";
-import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons';
+import { Table, Image, Statistic } from "antd";
+import { ArrowUpOutlined, ArrowDownOutlined } from "@ant-design/icons";
 
+const getStatistic = (value) => {
+  return (
+    <Statistic
+      value={value}
+      precision={2}
+      valueStyle={value > 0 ? { color: "green" } : { color: "red" }}
+      prefix={value > 0 ? <ArrowUpOutlined /> : <ArrowDownOutlined />}
+      suffix="%"
+    />
+  );
+};
 
 const colHeader = [
   {
@@ -36,24 +47,7 @@ const colHeader = [
     dataIndex: "price_change_1_hour",
     key: "price_change_1_hour",
     render: (text, record) => {
-      return (
-        <Statistic
-        value={record.price_change_1_hour}
-        precision={2}
-        valueStyle={record.price_change_1_hour > 0? { color: "green" }: { color: "red" }}
-        prefix={record.price_change_1_hour > 0? <ArrowUpOutlined />:<ArrowDownOutlined />}
-        suffix="%"
-        />
-        // <div
-        //   style={
-        //     record.price_change_1_hour > 0
-        //       ? { color: "green" }
-        //       : { color: "red" }
-        //   }
-        // >
-        //   {record.price_change_1_hour.toFixed(2)}%
-        // </div>
-      );
+      return getStatistic(record.price_change_1_hour);
     },
   },
   {
@@ -61,24 +55,7 @@ const colHeader = [
     dataIndex: "price_change_24_hour",
     key: "price_change_24_hour",
     render: (text, record) => {
-      return (
-        <Statistic
-        value={record.price_change_24_hour}
-        precision={2}
-        valueStyle={record.price_change_24_hour > 0? { color: "green" }: { color: "red" }}
-        prefix={record.price_change_24_hour > 0? <ArrowUpOutlined />:<ArrowDownOutlined />}
-        suffix="%"
-        />
-        // <div
-        //   style={
-        //     record.price_change_24_hour > 0
-        //       ? { color: "green" }
-        //       : { color: "red" }
-        //   }
-        // >
-        //   {record.price_change_24_hour.toFixed(2)}%
-        // </div>
-      );
+      return getStatistic(record.price_change_24_hour);
     },
   },
   {
@@ -86,24 +63,7 @@ const colHeader = [
     dataIndex: "price_change_7_day",
     key: "price_change_7_day",
     render: (text, record) => {
-      return (
-        <Statistic
-        value={record.price_change_7_day}
-        precision={2}
-        valueStyle={record.price_change_7_day > 0? { color: "green" }: { color: "red" }}
-        prefix={record.price_change_7_day > 0? <ArrowUpOutlined />:<ArrowDownOutlined />}
-        suffix="%"
-        />
-        // <div
-        //   style={
-        //     record.price_change_7_day > 0
-        //       ? { color: "green" }
-        //       : { color: "red" }
-        //   }
-        // >
-        //   {record.price_change_7_day.toFixed(2)}%
-        // </div>
-      );
+      return getStatistic(record.price_change_7_day);
     },
   },
   {
@@ -139,7 +99,7 @@ const Market = (props) => {
     const timeoutHandler = setTimeout(() => {
       setMkt_data();
     }, 10000);
-    return ()=>clearTimeout(timeoutHandler);
+    return () => clearTimeout(timeoutHandler);
   }, [mkt_data]);
 
   return <Table dataSource={mkt_data} columns={colHeader} />;
