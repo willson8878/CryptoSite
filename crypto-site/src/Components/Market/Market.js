@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import MarketData from "../../Services/MarketData";
-import { Table, Image, Statistic } from "antd";
+import { Table, Image, Statistic, Col } from "antd";
 import { ArrowUpOutlined, ArrowDownOutlined } from "@ant-design/icons";
 
 const getStatistic = (value) => {
@@ -28,7 +28,7 @@ const colHeader = [
     render: (text, record) => {
       return (
         <>
-          <Image width={15} src={record.image} />
+          <Image width={20} src={record.image} />
           {record.symbol}
         </>
       );
