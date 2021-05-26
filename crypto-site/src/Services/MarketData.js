@@ -1,9 +1,12 @@
 import axios from 'axios';
 
 const MarketData = async (props) => {
-    let mkt_data = await axios.get('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h%2C7d').then(data=>{
+    //Getting data from coingecko use its http request
+    let mkt_data = await axios.get('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h%2C7d')
+    .then(data=>{
        return data.data.map((item,index)=>{
            return{
+               // filter the only need data
                 name:item.name,
                 image:item.image,
                 symbol:item.symbol.toUpperCase().trim(),
@@ -17,7 +20,6 @@ const MarketData = async (props) => {
            }
        })
     }).catch(err => console.log(err));
-    // console.log(mkt_data)
     return await mkt_data;
 }
 

@@ -110,13 +110,14 @@ const Market = (props) => {
     });
   };
 
+  //use timeout to update the market data every 10 sec
   useEffect(() => {
     setMkt_data();
-    const interval = setInterval(() => {
+    const timeoutHandler = setTimeout(() => {
       setMkt_data();
-    }, 20000);
-    return ()=>clearInterval(interval);
-  }, []);
+    }, 10000);
+    return ()=>clearTimeout(timeoutHandler);
+  }, [mkt_data]);
 
   return <Table dataSource={mkt_data} columns={colHeader} />;
 };

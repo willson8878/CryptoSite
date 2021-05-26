@@ -28,6 +28,7 @@ function App() {
       <Header>
         <div className="logo" />
 
+        {/* implement ANTD Menu component in Nav bar */}
         <Menu theme="dark" mode="horizontal" >
           <Menu.Item key="1"> <Link to='/market'>Market</Link></Menu.Item>
           <Menu.Item key="2"> <Link to='/news'>News</Link></Menu.Item>
@@ -38,6 +39,7 @@ function App() {
         className="site-layout"
         style={{ padding: "0 50px", marginTop: 10 }}
       >
+        {/* Setting router in each nav bar options */}
         <Route path="/market">
           <div className="site-layout-content"><Market data={dataMarket} /></div>
         </Route>
