@@ -1,6 +1,8 @@
-import { Table, Image } from "antd";
 import { useState, useEffect } from "react";
 import MarketData from "../../Services/MarketData";
+import { Table, Image,Statistic } from "antd";
+import { ArrowUpOutlined, ArrowDownOutlined } from '@ant-design/icons';
+
 
 const colHeader = [
   {
@@ -35,15 +37,22 @@ const colHeader = [
     key: "price_change_1_hour",
     render: (text, record) => {
       return (
-        <div
-          style={
-            record.price_change_1_hour > 0
-              ? { color: "green" }
-              : { color: "red" }
-          }
-        >
-          {record.price_change_1_hour.toFixed(2)}%
-        </div>
+        <Statistic
+        value={record.price_change_1_hour}
+        precision={2}
+        valueStyle={record.price_change_1_hour > 0? { color: "green" }: { color: "red" }}
+        prefix={record.price_change_1_hour > 0? <ArrowUpOutlined />:<ArrowDownOutlined />}
+        suffix="%"
+        />
+        // <div
+        //   style={
+        //     record.price_change_1_hour > 0
+        //       ? { color: "green" }
+        //       : { color: "red" }
+        //   }
+        // >
+        //   {record.price_change_1_hour.toFixed(2)}%
+        // </div>
       );
     },
   },
@@ -53,15 +62,22 @@ const colHeader = [
     key: "price_change_24_hour",
     render: (text, record) => {
       return (
-        <div
-          style={
-            record.price_change_24_hour > 0
-              ? { color: "green" }
-              : { color: "red" }
-          }
-        >
-          {record.price_change_24_hour.toFixed(2)}%
-        </div>
+        <Statistic
+        value={record.price_change_24_hour}
+        precision={2}
+        valueStyle={record.price_change_24_hour > 0? { color: "green" }: { color: "red" }}
+        prefix={record.price_change_24_hour > 0? <ArrowUpOutlined />:<ArrowDownOutlined />}
+        suffix="%"
+        />
+        // <div
+        //   style={
+        //     record.price_change_24_hour > 0
+        //       ? { color: "green" }
+        //       : { color: "red" }
+        //   }
+        // >
+        //   {record.price_change_24_hour.toFixed(2)}%
+        // </div>
       );
     },
   },
@@ -71,15 +87,22 @@ const colHeader = [
     key: "price_change_7_day",
     render: (text, record) => {
       return (
-        <div
-          style={
-            record.price_change_7_day > 0
-              ? { color: "green" }
-              : { color: "red" }
-          }
-        >
-          {record.price_change_7_day.toFixed(2)}%
-        </div>
+        <Statistic
+        value={record.price_change_7_day}
+        precision={2}
+        valueStyle={record.price_change_7_day > 0? { color: "green" }: { color: "red" }}
+        prefix={record.price_change_7_day > 0? <ArrowUpOutlined />:<ArrowDownOutlined />}
+        suffix="%"
+        />
+        // <div
+        //   style={
+        //     record.price_change_7_day > 0
+        //       ? { color: "green" }
+        //       : { color: "red" }
+        //   }
+        // >
+        //   {record.price_change_7_day.toFixed(2)}%
+        // </div>
       );
     },
   },
