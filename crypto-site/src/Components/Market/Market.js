@@ -8,7 +8,7 @@ const getStatistic = (value) => {
     <Statistic
       value={value}
       precision={2}
-      valueStyle={value > 0 ? { color: "green" } : { color: "red" }}
+      valueStyle={value > 0 ? { color: "green" ,fontSize: "15px"} : { color: "red" ,fontSize: "15px"}}
       prefix={value > 0 ? <ArrowUpOutlined /> : <ArrowDownOutlined />}
       suffix="%"
     />
@@ -35,7 +35,7 @@ const colHeader = [
     },
   },
   {
-    title: "Price",
+    title: "Current Price",
     dataIndex: "current_price",
     key: "current_price",
     render: (text, record) => {
@@ -102,7 +102,7 @@ const Market = (props) => {
     return () => clearTimeout(timeoutHandler);
   }, [mkt_data]);
 
-  return <Table dataSource={mkt_data} columns={colHeader} />;
+  return <Table dataSource={mkt_data} columns={colHeader} pagination={{ pageSize: 50 }}/>;
 };
 
 export default Market;
