@@ -1,0 +1,13 @@
+type  Coin{
+    coin_id: String! @unique
+    last_h24_volume:Float!
+}
+type VolumePreHr{
+    coin:String!
+    hr_id:Float!
+    volume:Float!
+}
+
+type Query {
+    allCoins:[Coin]
+}
