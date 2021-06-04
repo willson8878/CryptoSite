@@ -7,6 +7,7 @@ const MarketData = async (props) => {
        return data.data.map((item,index)=>{
            return{
                // filter the only need data
+                id:item.id,
                 name:item.name,
                 image:item.image,
                 symbol:item.symbol.toUpperCase().trim(),

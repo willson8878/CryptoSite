@@ -1,13 +1,20 @@
-type  Coin{
+type Coin{
     coin_id: String! @unique
     last_h24_volume:Float!
 }
 type VolumePreHr{
     coin:String!
-    hr_id:Float!
+    hr_id:Int!
     volume:Float!
 }
 
 type Query {
     allCoins:[Coin]
+    allVolumePreHrs:[VolumePreHr]
+    findVolumePreHrsByCoinId(coin:String!):[VolumePreHr]
+    findCoinByCoinID(coin_id:String!):[Coin]
+}
+
+type Mutation {
+    updataCoinVolById(coin_id:String!,last_h24_volume:Float!):Coin!
 }
