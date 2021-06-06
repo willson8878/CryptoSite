@@ -12,9 +12,10 @@ type Query {
     allCoins:[Coin]
     allVolumePreHrs:[VolumePreHr]
     findVolumePreHrsByCoinId(coin:String!):[VolumePreHr]
-    findCoinByCoinID(coin_id:String!):[Coin]
+    findCoinByCoinID(coin_id:String!):Coin
 }
 
 type Mutation {
-    updataCoinVolById(coin_id:String!,last_h24_volume:Float!):Coin!
+    updataCoinVolById(coin_id:String!,last_h24_volume:Float!):Coin @resolver(name:"updata_Coin_Vol_By_Id")
 }
+

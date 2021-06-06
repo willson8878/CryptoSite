@@ -37,9 +37,28 @@ const FIND_VOL_BY_COIN_ID = `query($coin:String!){
   }
 }`
 
-const UPDATE_COIN = `
+const UPDATE_COIN = `mutation($coin_id:String!, $last_h24_volume:Float!){
+  updataCoinVolById(coin_id:$coin_id,last_h24_volume:$last_h24_volume){
+    _id
+    last_h24_volume
+  }
+}
 `
-
+const UPDATE_COIN_FQL = `Query(
+  Lambda(
+    ["coin_id", "last_h24_volume"],
+    Let(
+      {
+        coin: Get(Match(Index("findCoinByCoinID"), Var("coin_id"))),
+        coinRef: Select(["ref"], Var("coin"))
+      },
+      Update(Var("coinRef"), {
+        data: { last_h24_volume: Var("last_h24_volume") }
+      })
+    )
+  )
+)
+`
 
 module.exports = {
     GET_COINS,
