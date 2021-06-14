@@ -18,8 +18,7 @@ module.exports = async (query, variables) => {
     }
   });
   if (errors) {
-    console.log(errors);
-    throw new Error('something went wrong');
+    throw new Error(errors[0].message);
   }
   return data;
 }

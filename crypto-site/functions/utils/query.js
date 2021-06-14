@@ -59,6 +59,15 @@ const UPDATE_COIN_FQL = `Query(
   )
 )
 `
+const CREATE_VOL_PER_HR_FQL = `Query(
+  Lambda(
+    ["coin_id"],
+    Map(
+      Paginate(Match(Index("findVolumePreHrsByCoinId"), Var("coin_id"))),
+      Lambda("X", Get(Var("X")))
+    )
+  )
+)`
 
 module.exports = {
     GET_COINS,

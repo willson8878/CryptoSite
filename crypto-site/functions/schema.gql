@@ -17,5 +17,6 @@ type Query {
 
 type Mutation {
     updataCoinVolById(coin_id:String!,last_h24_volume:Float!):Coin @resolver(name:"updata_Coin_Vol_By_Id")
+    createVolPerHr(coin_id:String!,last_h24_volume:Float!):VolumePreHr @resolver(name:"createVolPerHr")
 }
 

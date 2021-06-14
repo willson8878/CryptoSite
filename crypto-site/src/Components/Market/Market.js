@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import MarketData from "../../Services/MarketData";
-import { Table, Image, Statistic } from "antd";
+import updateCoinList from '../../Services/updateCoinList'
+import { Table, Image, Statistic, Button } from "antd";
 import { ArrowUpOutlined, ArrowDownOutlined } from "@ant-design/icons";
 
 const getStatistic = (value) => {
@@ -93,6 +94,14 @@ const Market = (props) => {
     });
   };
 
+  const cloinListUpdataTest = () => {
+    const list = mkt_data.map(item =>{
+      return {id: item.id, total_volume: item.total_volume}
+    })
+    updateCoinList(list);
+  }
+  
+
   //use timeout to update the market data every 10 sec
   useEffect(() => {
     setMkt_data();
@@ -102,7 +111,10 @@ const Market = (props) => {
     return () => clearTimeout(timeoutHandler);
   }, [mkt_data]);
 
-  return <Table dataSource={mkt_data} columns={colHeader} pagination={{ pageSize: 50 }}/>;
+  return<>
+  <Button onClick={cloinListUpdataTest}>Updata Coin List</Button>
+  <Table dataSource={mkt_data} columns={colHeader} pagination={{ pageSize: 50 }}/>
+  </> ;
 };
 
 export default Market;
