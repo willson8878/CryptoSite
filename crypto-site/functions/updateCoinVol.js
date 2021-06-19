@@ -4,8 +4,8 @@ const fr = require('./utils/formattedResponse')
 
 exports.handler = async (event) => {
 
-    const {coin_id,last_h24_volume} = JSON.parse(event.body);
-    const vars = {coin_id,last_h24_volume};
+    const {coin_id,last_h24_volume:new_24h_volume} = JSON.parse(event.body);
+    const vars = {coin_id,new_24h_volume};
     try {
         const {updataCoinVolById} = await sendQuery(UPDATE_COIN,vars);
         

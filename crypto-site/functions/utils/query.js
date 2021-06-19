@@ -2,16 +2,18 @@ const GET_COINS = `query{
     allCoins{
       data{
         coin_id
-        last_h24_volume
+        old_24h_volume
+        new_24h_volume
       }
     }
   }
 `;
 
-const CREATE_COIN = `mutation($coin_id:String!, $last_h24_volume:Float!){
-  createCoin(data:{coin_id:$coin_id, last_h24_volume:$last_h24_volume}){
+const CREATE_COIN = `mutation($coin_id:String!, $old_24h_volume:Float!,$new_24h_volume:Float!){
+  createCoin(data:{coin_id:$coin_id, old_24h_volume:$old_24h_volume, new_24h_volume:$new_24h_volume}){
     coin_id
-    last_h24_volume
+    old_24h_volume
+    new_24h_volume
   }
 }
 `
@@ -37,10 +39,11 @@ const FIND_VOL_BY_COIN_ID = `query($coin:String!){
   }
 }`
 
-const UPDATE_COIN = `mutation($coin_id:String!, $last_h24_volume:Float!){
-  updataCoinVolById(coin_id:$coin_id,last_h24_volume:$last_h24_volume){
-    _id
-    last_h24_volume
+const UPDATE_COIN = `mutation($coin_id:String!, $new_24h_volume:Float!){
+  updataCoinVolById(coin_id:$coin_id,new_24h_volume:$new_24h_volume){
+    coin_id
+    old_24h_volume
+    new_24h_volume
   }
 }
 `
@@ -61,10 +64,32 @@ const UPDATE_COIN_FQL = `Query(
 `
 const CREATE_VOL_PER_HR_FQL = `Query(
   Lambda(
-    ["coin_id"],
-    Map(
-      Paginate(Match(Index("findVolumePreHrsByCoinId"), Var("coin_id"))),
-      Lambda("X", Get(Var("X")))
+    ["coin_id","last_h24_volume"],
+    Let(
+      {
+        hr_id: Select(
+          [0],
+          Max(
+            Map(
+              Paginate(
+                Match(Index("findVolumePreHrsByCoinId"), Var("coin_id"))
+              ),
+              Lambda("X", Select(["data", "hr_id"], Get(Var("X"))))
+            )
+          )
+        ),
+        old24HrVol:Select(
+        ["data", "last_h24_volume"],
+        Get(Match(Index("findCoinByCoinID"), Var("coin_id")))
+      )
+      },
+      Create(Collection("VolumePreHr"),{
+        data:{
+          coin:Var("coin_id"),
+          hr_id: Add(Var("hr_id"),1),
+          volume:Abs(Subtract(Var("old24HrVol"), ToDouble(Var("last_h24_volume"))))
+        },
+      })
     )
   )
 )`

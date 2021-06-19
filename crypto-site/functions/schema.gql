@@ -1,6 +1,7 @@
 type Coin{
     coin_id: String! @unique
-    last_h24_volume:Float!
+    old_24h_volume:Float!
+    new_24h_volume:Float!
 }
 type VolumePreHr{
     coin:String!
@@ -16,7 +17,7 @@ type Query {
 }
 
 type Mutation {
-    updataCoinVolById(coin_id:String!,last_h24_volume:Float!):Coin @resolver(name:"updata_Coin_Vol_By_Id")
-    createVolPerHr(coin_id:String!,last_h24_volume:Float!):VolumePreHr @resolver(name:"createVolPerHr")
+    updataCoinVolById(coin_id:String!,new_24h_volume:Float!):Coin @resolver(name:"updataCoinVolById")
+    createVolPerHr(coin_id:String!,new_24h_volume:Float!):VolumePreHr @resolver(name:"createVolPerHr")
 }
 
