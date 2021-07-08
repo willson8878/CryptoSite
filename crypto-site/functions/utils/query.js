@@ -59,7 +59,11 @@ const CREATE_VOL_PER_HR = `mutation($coin_id:String!){
     }
   }`
 
-
+const DELETE_VOL_PER_HR = `mutation($coin_id:String!){
+  deleteVolPerHr(coin_id:$coin_id){
+    _id
+  }
+}`
 
 //Server as a backup for fauna query of the UDF, no actual propose server inside the script.
 const UPDATE_COIN_FQL = `Query(
@@ -155,5 +159,6 @@ module.exports = {
     INIT_VOL_PER_HR,
     FIND_VOL_BY_COIN_ID,
     UPDATE_COIN,
-    CREATE_VOL_PER_HR
+    CREATE_VOL_PER_HR,
+    DELETE_VOL_PER_HR
 }
