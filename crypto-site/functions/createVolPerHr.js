@@ -3,13 +3,13 @@ const sendQuery = require('./utils/sendQuery.js')
 const fr = require('./utils/formattedResponse')
 
 exports.handler = async (event) => {
-
-    const {coin, hr_id, volume} = JSON.parse(event.body);
-    const vars = {coin, hr_id, volume};
+    console.log(event.body)
+    const {coin_id} = JSON.parse(event.body);
+    const vars = {coin_id};
     try {
-        const {createVolumePreHr} = await sendQuery(CREATE_VOL_PER_HR,vars);
+        const {createVolPerHr} = await sendQuery(CREATE_VOL_PER_HR,vars);
         
-        return fr(200, createVolumePreHr)
+        return fr(200, createVolPerHr)
 
     } catch (error) {
         console.log(error)
