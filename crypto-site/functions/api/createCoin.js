@@ -1,7 +1,7 @@
-const {CREATE_COIN} = require('./utils/query.js');
+const {CREATE_COIN} = require('../utils/query.js');
 const updateCoinVol = require('./updateCoinVol.js')
-const sendQuery = require('./utils/sendQuery.js')
-const fr = require('./utils/formattedResponse');
+const sendQuery = require('../utils/sendQuery.js')
+const fr = require('../utils/formattedResponse');
 
 exports.handler = async (event) => {
     // deconstruct the coin_id and last_h24_volume from event
