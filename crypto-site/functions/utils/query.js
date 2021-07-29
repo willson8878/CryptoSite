@@ -125,7 +125,7 @@ const CREATE_VOL_PER_HR_FQL = `Query(
 const DELETE_VOL_PER_HR_FQL = `
 Query(
   Lambda(
-    "coin_id",
+    "[coin_id]",
     Let(
       {
         hr_id: Select(

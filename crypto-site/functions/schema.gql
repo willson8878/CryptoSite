@@ -20,5 +20,5 @@ type Mutation {
     updataCoinVolById(coin_id:String!,new_24h_volume:Float!):Coin @resolver(name:"updataCoinVolById")
     createVolPerHr(coin_id:String!):VolumePreHr @resolver(name:"createVolPerHr")
     deleteVolPerHr(coin_id:String!):VolumePreHr @resolver(name:"deleteVolPerHr")
+    updataTimeStamp(coin_id:String):Boolean @resolver(name:"updataTimeStamp")
 }
-
